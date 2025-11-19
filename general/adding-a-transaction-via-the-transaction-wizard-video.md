@@ -1,0 +1,10 @@
+
+# Adding a Transaction Via the Transaction Wizard (Video)
+
+Was this article helpful to you?
+
+#### Add/Edit a Rating
+
+Was this article helpful to you?
+
+My Comments:
