@@ -1,39 +1,38 @@
-
 # Constellation1 eSign February 2024 Release Notes
 
 Production Release: February 21, 2024
 
 ## Release Summary
 
-**Processing Anchor Tags:** Improved usability for uploaded documents with anchor tags. 
+**Processing Anchor Tags:** Improved usability for uploaded documents with anchor tags.&#x20;
 
 **Bug Fixes**
 
 **Technology Updates**
 
-## Release Details  
+## Release Details
 
-Processing Anchor Tags  
-We have improved eSignature to be more efficient and user-friendly for documents with many anchor tags.   
-When uploading such documents, eSignature now processes them faster. However, users will not be able to proceed to step 2 while the documents are processing, and may be notified that documents are being processed. 
+Processing Anchor Tags\
+We have improved eSignature to be more efficient and user-friendly for documents with many anchor tags. \
+When uploading such documents, eSignature now processes them faster. However, users will not be able to proceed to step 2 while the documents are processing, and may be notified that documents are being processed.&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2024/02%20Feb/2024-Feb-eSign-ProcessingDoc.png)
 
 Bug Fixes
 
-1\. GPES-4671 and GPES-4668  
-We fixed an issue with exporting contacts erroring. 
+1\. GPES-4671 and GPES-4668\
+We fixed an issue with exporting contacts erroring.&#x20;
 
 Previously, when exporting 100 or more contacts, users would receive a “Bad Request” error message.
 
-Now, users can export contacts as expected. 
+Now, users can export contacts as expected.&#x20;
 
-2\. GPES-4613  
+2\. GPES-4613\
 We’ve fixed an issue that caused certain markup tags to be omitted when sending a document for signature.
 
 Previously, when using Windows 11 and Google Chrome to send a signing session, some markup tags placed on the document would disappear after the recipient completed their signing session.
 
-Now, all markup tags and fields will be included on a document when signed and returned as expected. 
+Now, all markup tags and fields will be included on a document when signed and returned as expected.&#x20;
 
 Technology Updates
 

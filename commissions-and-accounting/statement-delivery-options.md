@@ -1,4 +1,3 @@
-
 # Statement Delivery Options | Constellation1 Customer Hub
 
 This article will serve as reference for Statement Delivery options within Commissions Online.
@@ -11,7 +10,7 @@ From a CLOSED transaction, you can send Agent Check Stubs and/or Agent Commissio
 
 To send statements from the Transactions Landing Page on PENDING Transaction
 
-Navigate to Transactions from the left navigation bar and from the Transaction Landing page under **Action** to the right of the transaction in question, select **Statement Delivery** 
+Navigate to Transactions from the left navigation bar and from the Transaction Landing page under **Action** to the right of the transaction in question, select **Statement Delivery**&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/bb500cf2-d7ec-4d5f-b134-d05da378c28a)
 

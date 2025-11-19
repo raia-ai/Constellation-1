@@ -1,4 +1,3 @@
-
 # How to Use Date-Driven Action Plans
 
 **We have two action plans that are based on a milestone date for the recipient versus the Start Date of the plan.**
@@ -9,7 +8,7 @@ To add a contact to these plans, go to Contacts, search, and select a contact.
 
 Click on the name link to open the contact record. Click on the Personal Info tab.
 
-Click on the Date field for Birthday and/or Home Anniversary and select a date from the pop-up calendar OR manually enter a date. 
+Click on the Date field for Birthday and/or Home Anniversary and select a date from the pop-up calendar OR manually enter a date.&#x20;
 
 Click Save at the bottom of the page.
 

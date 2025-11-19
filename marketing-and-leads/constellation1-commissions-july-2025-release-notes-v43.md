@@ -1,4 +1,3 @@
-
 # Constellation1 Commissions July 2025 Release Notes v4.3
 
 Production Release: July 16, 2025, v4.3
@@ -9,7 +8,7 @@ Production Release: July 16, 2025, v4.3
 
 ## **Transaction:** “Commission Disbursed by Third Party” flag is now controlled by the advanced setting flag “Remember last used Disbursed By and Disbursement Form”
 
-## **T4A E-File Process Transmitter Name:**  Added validation when transmitter name length exceeds 35 characters
+## **T4A E-File Process Transmitter Name:**  Added validation when transmitter name length exceeds 35 characters
 
 ## **Auto Filter Agents by Selected Office:** Automatically filters agents when the office is selected
 
@@ -17,15 +16,15 @@ Production Release: July 16, 2025, v4.3
 
 ## **Commercial Commission Rules:** Added ability to create a commercial commission rule
 
-## **Enabled Custom Fields for Transaction:** Users can now add custom fields
+## **Enabled Custom Fields for Transaction:** Users can now add custom fields
 
 ## **Reports:** Agent Income Summary provides new filter include/exclude pre-split deductions
 
-## **Agent Check Stub:** Withholding type deductions are now separated from post-split deductions 
+## **Agent Check Stub:** Withholding type deductions are now separated from post-split deductions&#x20;
 
-## **Enterprise Insights:** Added ability to assign permissions "By Groups"
+## **Enterprise Insights:** Added ability to assign permissions "By Groups"
 
-## **General Ledger:** Bonus Override and Referrals payments can be configured to integrate to Accounts Payable 
+## **General Ledger:** Bonus Override and Referrals payments can be configured to integrate to Accounts Payable&#x20;
 
 ## **Bug Fixes**
 
@@ -33,7 +32,7 @@ Production Release: July 16, 2025, v4.3
 
 ## **Transaction Number Length Reduced to 10**
 
-The length of the transaction number that is auto-generated during transaction import has been reduced to 10 characters 
+The length of the transaction number that is auto-generated during transaction import has been reduced to 10 characters&#x20;
 
 ## **Transaction**
 
@@ -55,7 +54,7 @@ Enabled the ability to configure a minimum and maximum threshold for a Post Spli
 
 Added ability to support a **“Commercial”** type commission calculation
 
- ![A screenshot of a computerAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/f9f1d88f-f261-4438-87a3-c8f416747438)
+![A screenshot of a computerAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/f9f1d88f-f261-4438-87a3-c8f416747438)
 
 Added **“Square Footage”** in Transaction / Details tab / Additional Details card
 
@@ -67,7 +66,7 @@ Users can now add/define custom fields for transaction in Advanced Settings
 
 ![A screenshot of a computerAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/d1a7e2c9-c32c-4b3a-8bbe-ae0c3e4d0b58)
 
-Custom fields are displayed via Transaction / Details tab / Custom Fields card and can be selected when creating Custom Reports 
+Custom fields are displayed via Transaction / Details tab / Custom Fields card and can be selected when creating Custom Reports&#x20;
 
 ![A screenshot of a computerAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/28577a08-eef4-4a6c-86d8-622e76cae6e8)
 
@@ -91,7 +90,7 @@ Garnishment type deductions are now separated from **“Post-Split Deductions'',
 
 A permission can now be assigned "**By Groups”** when creating/editing a user.
 
- ![A screenshot of a computerAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/85249877-bcc7-4053-bfeb-fd931ff7d8a7)
+![A screenshot of a computerAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/85249877-bcc7-4053-bfeb-fd931ff7d8a7)
 
 **General Ledger**
 

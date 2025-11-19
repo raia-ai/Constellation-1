@@ -1,11 +1,10 @@
-
 # The Benefits to Paradym's Single Property Site Viewer
 
 The below article reviews the benefits to Paradym’s Single Property Site Viewer.
 
 Brief Description:
 
-Most real estate pros have seen and/or are using a traditional virtual tour template to showcase an active listing they have on the market. Paradym’s more traditional tour viewer is our Fusion viewer. However, agents have another optional viewer to use, the Single Property Site. The Property Site takes on a totally different viewing experience. 
+Most real estate pros have seen and/or are using a traditional virtual tour template to showcase an active listing they have on the market. Paradym’s more traditional tour viewer is our Fusion viewer. However, agents have another optional viewer to use, the Single Property Site. The Property Site takes on a totally different viewing experience.&#x20;
 
 Steps Outline Below:
 
@@ -15,7 +14,7 @@ Step 2: The Benefits to our Single Property Site
 
 Step 1: Fusion viewer vs. Single Property Site in appearance
 
-The Fusion viewer is a more traditional virtual tour option.  This viewer features a 'click and play' option to view, listen, and watch a virtual tour going through a professional slideshow of the listing photos. It will also include any details of the property in the slideshow as you listen to background music and our featured customizable voiceover options.  You will notice tabs to the left that include further property details and information, and you will notice the agent and company branding information located on the right side of the tour. See below
+The Fusion viewer is a more traditional virtual tour option.  This viewer features a 'click and play' option to view, listen, and watch a virtual tour going through a professional slideshow of the listing photos. It will also include any details of the property in the slideshow as you listen to background music and our featured customizable voiceover options.  You will notice tabs to the left that include further property details and information, and you will notice the agent and company branding information located on the right side of the tour. See below
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-TheBenefitsToParadymsSinglePropertySiteViewer/TBTPSPSimage1.jpg)
 
@@ -35,22 +34,22 @@ Now that you know the Difference between the Fusion Viewer and the Single Proper
 
 Step 2: The Benefits to Paradym's Single Property Site Viewer
 
-The Single Property Site can also be customized to the agents’ preference.  While the Fusion has it’s own benefits and customizations, the Property Site has the ability to take it to the next level for the real estate agent when it comes to showcasing their listing. 
+The Single Property Site can also be customized to the agents’ preference.  While the Fusion has it’s own benefits and customizations, the Property Site has the ability to take it to the next level for the real estate agent when it comes to showcasing their listing.&#x20;
 
-Using the Property Site viewer, an agent can customize the viewing experience by adding additional content of their choice. 
+Using the Property Site viewer, an agent can customize the viewing experience by adding additional content of their choice.&#x20;
 
 Benefits summary:
 
-*   Adding additional content to your tour template can be very beneficial to an agent in helping them win the attention of a customer and to hopefully turn the customer into a new lead for the agent! Adding additional content will make your Property Site stand out from the rest. It will turn your “template” into an elegant true story telling experience and a true personalized website for each of your listings!
-*   What are some examples of things and types of content you can add to your Property Site? Enhanced videography, video, cell phone video footage, drone video footage, Matterport links, Documents, PDF’s, floor plans, surveys, links to your website or the company website, links to partnership websites i.e. preferred mortgage lender etc., links to local media outlets or other various websites, links to your active inventory, links to a lead generation page such as “Find Your Dream Home” etc. 
+* Adding additional content to your tour template can be very beneficial to an agent in helping them win the attention of a customer and to hopefully turn the customer into a new lead for the agent! Adding additional content will make your Property Site stand out from the rest. It will turn your “template” into an elegant true story telling experience and a true personalized website for each of your listings!
+* What are some examples of things and types of content you can add to your Property Site? Enhanced videography, video, cell phone video footage, drone video footage, Matterport links, Documents, PDF’s, floor plans, surveys, links to your website or the company website, links to partnership websites i.e. preferred mortgage lender etc., links to local media outlets or other various websites, links to your active inventory, links to a lead generation page such as “Find Your Dream Home” etc.&#x20;
 
 The images below show the Four main areas (Focal, Feature Content, Tab, More Info) you can customize and add content too within Paradym's Property Site viewer.
 
-Adding a video to be used as your "Focal" area -  Enhanced videography, video, cell phone video footage
+Adding a video to be used as your "Focal" area -  Enhanced videography, video, cell phone video footage
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-TheBenefitsToParadymsSinglePropertySiteViewer/TBTPSPSimage10.png)
 
-Adding a "Featured Content" section  - Enhanced videography, video, cell phone video footage, drone video footage, Matterport links. 
+Adding a "Featured Content" section  - Enhanced videography, video, cell phone video footage, drone video footage, Matterport links.&#x20;
 
 'Edit' and 'Change' the title of the video or link name to what you'd like it to be identified as. photos (a) and (b) are below
 
@@ -62,22 +61,22 @@ Adding a "Featured Content" section  - Enhanced videography, video, cell phone 
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-TheBenefitsToParadymsSinglePropertySiteViewer/TBTPSPSimage7.jpg)
 
-Adding additional tabs to your "Tab" section - Enhanced videography, video, cell phone video footage, drone video footage, Matterport links, Documents, PDF’s, floor plans, surveys, etc. 
+Adding additional tabs to your "Tab" section - Enhanced videography, video, cell phone video footage, drone video footage, Matterport links, Documents, PDF’s, floor plans, surveys, etc.&#x20;
 
-'Edit' and 'Change' the title of the 'tab' name to what you'd like it to be identified as. 
+'Edit' and 'Change' the title of the 'tab' name to what you'd like it to be identified as.&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-TheBenefitsToParadymsSinglePropertySiteViewer/TBTPSPSimage8.jpg)
 
-Adding additional links to your "More Info" area - Links to your website or the company website, links to partnership websites i.e. preferred mortgage lender etc., links to local media outlets or other various websites, links to your active inventory, links to a lead generation page such as “Find Your Dream Home” etc., Video, Matterport links, Documents, PDF’s, etc. 
+Adding additional links to your "More Info" area - Links to your website or the company website, links to partnership websites i.e. preferred mortgage lender etc., links to local media outlets or other various websites, links to your active inventory, links to a lead generation page such as “Find Your Dream Home” etc., Video, Matterport links, Documents, PDF’s, etc.&#x20;
 
-'Edit' and 'Change' the title of the link name to what you'd like it to be identified as.  
+'Edit' and 'Change' the title of the link name to what you'd like it to be identified as. &#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-TheBenefitsToParadymsSinglePropertySiteViewer/TBTPSPSimage9.jpg)
 
 Where to Next?
 
-\*\*\* Are you interested in additional information? After reviewing and reading through the benefits in this article, I recommend reviewing and reading through a separate KB article named, “How to edit Additional Content.”  In that article we will inform you how to begin customizing your Property Site by using the additional content feature. 
+\*\*\* Are you interested in additional information? After reviewing and reading through the benefits in this article, I recommend reviewing and reading through a separate KB article named, “How to edit Additional Content.”  In that article we will inform you how to begin customizing your Property Site by using the additional content feature.&#x20;
 
 You may also Look inside your "Tour" options, select your skin of choice, then select "Additional Content" to begin customizing your Single Property Site.
 
-If you have questions:  800-873-0700 and select Option 1 to speak with a member of our Team!
+If you have questions:  800-873-0700 and select Option 1 to speak with a member of our Team!

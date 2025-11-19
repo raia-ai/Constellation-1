@@ -1,4 +1,3 @@
-
 # How to Send a Quick Email Using Your Action Plan Manager
 
 Click the **Quick Email** link to launch **Quick Email** functionality.
@@ -11,7 +10,7 @@ Within **Quick Email**, you can select a single Action Plan activity to email to
 
 _Note: The Birthday and Home Anniversary email activities will be available to be sent via **Quick Email.**_
 
-For assistance on this or on any aspect of our Nestfully product, contact [support@nestfully.com](mailto:support@nestfully.com). 
+For assistance on this or on any aspect of our Nestfully product, contact [support@nestfully.com](mailto:support@nestfully.com).&#x20;
 
 Was this article helpful to you?
 

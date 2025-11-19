@@ -1,9 +1,8 @@
-
 # Friendly URLs | Constellation1 Customer Hub
 
 Friendly URLs allow you to create a URL that will redirect to another URL for your site. To create/edit a friendly URL, log into rW admin (fnistools) and in the left nav:
 
- Click Content > Friendly URLs
+&#x20;Click Content > Friendly URLs
 
 A page will load up with all the Friendly URLs that exist for your site.
 
@@ -15,7 +14,7 @@ You can add a new friendly URL by clicking the link in the the top right of the 
 
 The friendly URL field is the URL you want to use on your site/marketing promotions. The Destination URL field will be the the URL consumers will get redirected to.
 
-**Do note** that the Destination URL field **requires** that you specify the "http://" or "https://" part of the full URL. If you leave this out, the redirect will not work.
+**Do note** that the Destination URL field **requires** that you specify the "http://" or "https://" part of the full URL. If you leave this out, the redirect will not work.
 
 Click the submit button to save your changes.
 

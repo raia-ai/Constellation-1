@@ -1,4 +1,3 @@
-
 # Constellation1 Website & CRM November 2021 Release Notes
 
 Production Release: November 23, 2021
@@ -31,14 +30,13 @@ To help you and your agents manage your company’s brand image, we’ve improve
 
 The CRM now accepts photos:
 
-*   Up to 5 MB
-*   In JPG, PNG, and GIF formats
+* Up to 5 MB
+* In JPG, PNG, and GIF formats
 
 Recommended aspect ratios/dimensions:
 
-*   Agent photos: 3:4 (e.g., 150 x 100)
-*   Agent logos: 3:2 (e.g., 150 x 200)  
-    
+* Agent photos: 3:4 (e.g., 150 x 100)
+* Agent logos: 3:2 (e.g., 150 x 200)
 
 2022 ACTION PLANS
 
@@ -50,9 +48,9 @@ The seasonal postcard series is being updated to reflect 2022 dates. Postcards a
 
 Example:
 
-|     |     |
-| --- | --- |
-| _![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/CRM-2021-Nov-PostcardOld.jpg)_<br><br>_Previous Version_ | ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/CRM-2021-Nov-Postcard-New.jpg)<br><br>_New Version_ |
+|                                                                                                                                                                      |                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/CRM-2021-Nov-PostcardOld.jpg" alt=""><br><br><em>Previous Version</em></p> | <p><img src="https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/CRM-2021-Nov-Postcard-New.jpg" alt=""><br><br><em>New Version</em></p> |
 
 ## Constellation1 Websites
 
@@ -64,36 +62,36 @@ This new feature will determine if we are allowed to send emails from the primar
 
 Before an email is sent, this email service will validate our authority to send emails using the From address of the sender’s email domain:
 
-*   If we have authority, the email will be sent from the sender’s email address.
-*   If we do not have authority, we will attempt to send from your company’s default email address. If the company default email address is not defined in the website admin, the email will be sent from our system address.
+* If we have authority, the email will be sent from the sender’s email address.
+* If we do not have authority, we will attempt to send from your company’s default email address. If the company default email address is not defined in the website admin, the email will be sent from our system address.
 
 The following email services are not supported with this new feature:
 
-*   Gmail
-*   Yahoo! mail
-*   Hotmail
-*   Most free or community-based email services
+* Gmail
+* Yahoo! mail
+* Hotmail
+* Most free or community-based email services
 
 To allow our system to send emails on your behalf, an update is needed with your domain registrar. You need to add a text file to your domain that includes the following SPF record:
 
-            v=spf1 ip4:208.93.240.0/24 ~all
+&#x20;           v=spf1 ip4:208.93.240.0/24 \~all
 
 Your registrar (such as GoDaddy or other company with which you registered your domain) will be able to help you make this update.
 
 Benefits of email authority include:
 
-*   Agent and company branding
-*   Ensuring the highest delivery success rate
-*   Email services recognizing the sender as an authorized and legitimate sender
-*   Recipient email servers validating email sender authenticity (less likely to be sent to Spam)
+* Agent and company branding
+* Ensuring the highest delivery success rate
+* Email services recognizing the sender as an authorized and legitimate sender
+* Recipient email servers validating email sender authenticity (less likely to be sent to Spam)
 
 Example of a domain zone file:
 
-![](https://docsstaging1.wpengine.com/wp-content/uploads/2021/11/Website-2021-Nov-ZoneFile-300x162.png)  
+![](https://docsstaging1.wpengine.com/wp-content/uploads/2021/11/Website-2021-Nov-ZoneFile-300x162.png)
 
 ![](https://docsstaging1.wpengine.com/wp-content/uploads/2021/11/Website-2021-Nov-SPF-TextFile-300x78.png)
 
-A guide and FAQ are available upon request. Please reach out to your Constellation1 representative.  
+A guide and FAQ are available upon request. Please reach out to your Constellation1 representative.
 
 Franchise Website Leads
 

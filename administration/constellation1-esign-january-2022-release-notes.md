@@ -1,4 +1,3 @@
-
 # Constellation1 eSign January 2022 Release Notes
 
 #### Production Release: January 25, 2022
@@ -7,7 +6,7 @@
 
 **API:** Updated our API to allow access to signer documents.
 
-**Bulk Users Uploads:** Template updated to allow administrators to assign groups and roles.  
+**Bulk Users Uploads:** Template updated to allow administrators to assign groups and roles. &#x20;
 
 **Bug Fixes**
 
@@ -19,7 +18,7 @@ We have updated our API to allow signing session creators to access documents si
 
 The API call is getsignerdocuments and the Session ID and Signer ID are passed in the API call to identify the documents.
 
-Session creators will be able to view the title and size of the documents, then download them if they wish.   
+Session creators will be able to view the title and size of the documents, then download them if they wish.  &#x20;
 
 ### **Groups and Roles for Bulk Users Uploaded**
 
@@ -35,10 +34,9 @@ _Example of the updated import file format_
 
 **Bug Fixes**
 
-*   Fixed an issue with the signing session email template. The email was missing the CC’ed signers name, status and role.  
-    
-*   Fixed an issue with members getting an error when updating their personal preferences.
-*   Fixed an issue with the Configure Signers pop-up not showing when creating a new signature session using the API.
+* Fixed an issue with the signing session email template. The email was missing the CC’ed signers name, status and role.
+* Fixed an issue with members getting an error when updating their personal preferences.
+* Fixed an issue with the Configure Signers pop-up not showing when creating a new signature session using the API.
 
 Was this article helpful to you?
 

@@ -1,4 +1,3 @@
-
 # Update T4A Form for 2023 Tax Year
 
 This article provides instructions to update the T4A form for the 2023 Tax Year.
@@ -19,11 +18,11 @@ Once updated to v5.4.0.1111, please click on this link; [https://cwastoragedev.b
 
 **Please note, Constellation1 Commissions Desktop cannot be launched when replacing the files noted below and the files MUST be replaced on your internal server and all applicable workstations.**
 
-Navigate to your local PC's Downloads folder and unzip the folder. Inside the unzipped "t4a2024 folder" you will see two files; "QTRSRTL1.dll" and "t4a-flat-fill-11b.pdf". 
+Navigate to your local PC's Downloads folder and unzip the folder. Inside the unzipped "t4a2024 folder" you will see two files; "QTRSRTL1.dll" and "t4a-flat-fill-11b.pdf".&#x20;
 
-Copy the "QTRSRTL1.dll” file and replace to “C:\\Program Files (x86)\\Emphasys\\quickTRS” folder (the folder may be different if the application was not installed to the default folder initially)
+Copy the "QTRSRTL1.dll” file and replace to “C:\Program Files (x86)\Emphasys\quickTRS” folder (the folder may be different if the application was not installed to the default folder initially)
 
-Copy the “t4a-flat-fill-11b.pdf” file and replace to “C:\\Program Files (x86)\\Emphasys\\quickTRS\\Supports” folder (the folder may be different if the application was not installed to the default folder initially)
+Copy the “t4a-flat-fill-11b.pdf” file and replace to “C:\Program Files (x86)\Emphasys\quickTRS\Supports” folder (the folder may be different if the application was not installed to the default folder initially)
 
 Once completed, you can launch Constellation1 Commissions Desktop and process your T4A's as usual; [Process T4As](https://constellation1.na3.teamsupport.com/knowledgeBase/13709228)
 

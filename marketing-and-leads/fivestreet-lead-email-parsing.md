@@ -1,4 +1,3 @@
-
 # FiveStreet: Lead Email Parsing | Constellation1 Customer Hub
 
 **FiveStreet: How does my @fivestreet.me forwarding address work?**
@@ -11,12 +10,12 @@ In the case of almost all lead sources, the prospect will never see this @fivest
 
 We automatically assign you an @fivestreet.me email address when you create your FiveStreet account. It can be found on the Lead Sources tab of FiveStreet.
 
-Users can change the prefix of their @fivestreet.me email address by following these steps: 
+Users can change the prefix of their @fivestreet.me email address by following these steps:&#x20;
 
-1\. Log into FiveStreet.   
-2\. Click Lead Sources along the top.   
-3\. Click Change This Address in the top section.   
-4\. Replace the existing prefix with the new one.   
+1\. Log into FiveStreet. \
+2\. Click Lead Sources along the top. \
+3\. Click Change This Address in the top section. \
+4\. Replace the existing prefix with the new one. \
 5\. Click Save.
 
 Was this article helpful to you?

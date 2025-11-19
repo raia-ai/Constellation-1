@@ -1,33 +1,33 @@
-
 # Constellation1 Website & CRM March 2024 Release Notes
 
-Production Release: March 13, 2024 
+Production Release: March 13, 2024&#x20;
 
-## Release Summary  
+## Release Summary
 
-####   
+####
+
 **Constellation1 Websites**
 
 **Location Search By Zip Code:** Added city name to auto suggest when searching by zip code.
 
-**Listings Sold Price:** Added ability to hide the sold price of a property.   
+**Listings Sold Price:** Added ability to hide the sold price of a property. \
 **Blog Posts Preview:** Added preview option.
 
-**Share Blog Posts:** Added share option to blog posts. 
+**Share Blog Posts:** Added share option to blog posts.&#x20;
 
-**Canonical Tag Reference:** Added canonical tag reference to office and agent websites.  
+**Canonical Tag Reference:** Added canonical tag reference to office and agent websites. &#x20;
 
 #### **Bug Fixes**
 
-**Website:**  
-Blog post title image showing twice.  
-Agent blog linking back to company website. 
+**Website:**\
+Blog post title image showing twice.\
+Agent blog linking back to company website.&#x20;
 
 #### **Technology Updates**
 
-**Website:**   
-Consolidated email servers.   
-Updated Light Gallery 
+**Website:** \
+Consolidated email servers. \
+Updated Light Gallery&#x20;
 
 Updated address parser to Smarty.
 
@@ -35,29 +35,28 @@ Updated address parser to Smarty.
 
 Location Search By Zip Code
 
-We have updated the property search to now include the city name when users search by zip code.  
-When users are searching for properties by zip code, the city name now appears alongside the zip code in the auto-suggest drop-down on the homepage property search and on the property search page. 
+We have updated the property search to now include the city name when users search by zip code.\
+When users are searching for properties by zip code, the city name now appears alongside the zip code in the auto-suggest drop-down on the homepage property search and on the property search page.&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/Website%20CRM/2024/03%20March/2024-March-Website-ZipCodeSearch.jpg)
 
-This update applies to property search motif 3 (SM3). 
+This update applies to property search motif 3 (SM3).&#x20;
 
-Hide Sold Price 
+Hide Sold Price&#x20;
 
-We’ve added the option to hide the price on sold listings. The price field will display "$--" where the price would normally appear.   
+We’ve added the option to hide the price on sold listings. The price field will display "$--" where the price would normally appear. \
 To enable hiding sold prices, please contact your Constellation1 representative.
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/Website%20CRM/2024/03%20March/2024-March-Website-SoldPrice.jpg)
 
 Preview Blog Posts
 
-We’ve added a Preview button to the News article edit page allowing users to preview their blog posts before publishing them. 
+We’ve added a Preview button to the News article edit page allowing users to preview their blog posts before publishing them.&#x20;
 
-  
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/Website%20CRM/2024/03%20March/2024-March-Website-PreviewBlog.jpg)
 
-Share Blog Posts  
-We added a Share link to blog articles allowing viewers to share a blog post on their social media or send a link in email.  
+Share Blog Posts\
+We added a Share link to blog articles allowing viewers to share a blog post on their social media or send a link in email.
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/Website%20CRM/2024/03%20March/2024-March-Website-ShareBlog.jpg)
 
@@ -65,23 +64,24 @@ Canonical Tag Reference on Office and Agent Websites
 
 To enhance search engine optimization, we have added canonical tag references to office and agent websites to clearly identify ownership of the pages.
 
-## Bug Fixes  
+## Bug Fixes
 
-**Website**  
-1\. Fixed an issue with blog posts showing the header image twice.   
-Previously, published blog posts displayed the header image twice, causing a malformed design.  
+**Website**\
+1\. Fixed an issue with blog posts showing the header image twice. \
+Previously, published blog posts displayed the header image twice, causing a malformed design.\
 Now, this issue has been fixed so that now only one header image will be shown on each post.
 
-2\. Fixed an issue with clicking Home on an agent branded blog post navigating the user to the company blog landing page.   
-Previously, when viewing an agent-branded blog post, then clicking the Home link would redirect the users to the company blog landing page instead of the agent site.   
+2\. Fixed an issue with clicking Home on an agent branded blog post navigating the user to the company blog landing page. \
+Previously, when viewing an agent-branded blog post, then clicking the Home link would redirect the users to the company blog landing page instead of the agent site. \
 Now, clicking Home on an agent post navigates users back to the agent blog landing page.
 
-##   
-Technology Updates  
+##
 
-**Websites**  
-1\. We’ve consolidated multiple email servers to a new and up to date SMTP server. 
+Technology Updates
+
+**Websites**\
+1\. We’ve consolidated multiple email servers to a new and up to date SMTP server.&#x20;
 
 2\. We’ve updated Light Gallery from version 1.0 to the latest 2.7.2 version. Light Gallery displays listing photos and thumbnail images on the listing detail page as well as in the full photo viewer.
 
- 3. To improve accuracy and efficiency, we have updated the address parser for property search auto-suggestions to now use Smarty for parsing property addresses.
+&#x20;3\. To improve accuracy and efficiency, we have updated the address parser for property search auto-suggestions to now use Smarty for parsing property addresses.

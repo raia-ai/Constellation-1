@@ -1,39 +1,38 @@
-
 # How To Enable Click-to-Chat (Lead Generation Tool)
 
-Below is a step-by-step guide to enable Click to Chat on Virtual Tour.
+Below is a step-by-step guide to enable Click to Chat on Virtual Tour.
 
 **Step 1.**
 
-**![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/236baa8e-9229-4d9f-aa33-16f62195ec6f.png)**
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/236baa8e-9229-4d9f-aa33-16f62195ec6f.png)
 
 Once you’re logged into your Paradym.
 
-*   Click on your name (in the top right corner).
-*   Select Click To Chat under Account.
+* Click on your name (in the top right corner).
+* Select Click To Chat under Account.
 
 **Step 2.**
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/50a73410-ea54-4f18-b320-7275c6988c43.png)
 
-Enabling Click to Chat under Preferences  
+Enabling Click to Chat under Preferences &#x20;
 
-*   **Enabling:** Check the Enabled checkbox to activate the service.
-*   **Phone/Text:** Ensure that you provide a mobile number in the Phone (Text) field capable of receiving text messages.
-*   **Auto Prompt:** This setting controls how quickly the client’s chat box appears during your tours. By default, it is set to 20 seconds.
-*   **Best Practice:** Unless you have a specific period when you’re unavailable, it is recommended to keep your status set to Available.
-*   **Do Not Disturb:** Use this feature to define time constraints on your availability. For instance, if your working hours are from 9:00 AM to 6:00 PM EST, you can set your Do Not Disturb hours accordingly to reflect this schedule.
-*   **Zoom Personal Meeting ID:** If you have a Zoom account (free plans offer 40 minutes of conference time), paste your unique Meeting ID into the designated URL section. A How-To video link is also provided for guidance.
+* **Enabling:** Check the Enabled checkbox to activate the service.
+* **Phone/Text:** Ensure that you provide a mobile number in the Phone (Text) field capable of receiving text messages.
+* **Auto Prompt:** This setting controls how quickly the client’s chat box appears during your tours. By default, it is set to 20 seconds.
+* **Best Practice:** Unless you have a specific period when you’re unavailable, it is recommended to keep your status set to Available.
+* **Do Not Disturb:** Use this feature to define time constraints on your availability. For instance, if your working hours are from 9:00 AM to 6:00 PM EST, you can set your Do Not Disturb hours accordingly to reflect this schedule.
+* **Zoom Personal Meeting ID:** If you have a Zoom account (free plans offer 40 minutes of conference time), paste your unique Meeting ID into the designated URL section. A How-To video link is also provided for guidance.
 
 **Step 3.**
 
-**![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/258812dd-a7fd-40ea-9558-f54a60d10eb3.png)**
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/258812dd-a7fd-40ea-9558-f54a60d10eb3.png)
 
 **Automated Responses, and their meaning.**
 
-*   **Auto-Prompt:** This is the default message displayed to clients when the chat box first appears. You can customize all sections to suit your preferences.
-*   **introduction:** This message serves as the first communication the client sees when they contact you.
-*   **Unavailable:** This message allows you to provide alternative contact methods and informs clients that their inquiry has been received, even though you are currently unavailable to respond.
+* **Auto-Prompt:** This is the default message displayed to clients when the chat box first appears. You can customize all sections to suit your preferences.
+* **introduction:** This message serves as the first communication the client sees when they contact you.
+* **Unavailable:** This message allows you to provide alternative contact methods and informs clients that their inquiry has been received, even though you are currently unavailable to respond.
 
 Once you have completed the above steps, and made the required changes, scroll up on the page, and from the top right Click Save.
 

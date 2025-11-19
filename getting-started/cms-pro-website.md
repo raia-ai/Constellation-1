@@ -1,28 +1,27 @@
-
 # CMS Pro Website | Constellation1 Customer Hub
 
 rW website using CMS Pro is a user-friendly website building platform that helps you build a professional looking website. Your website is already attractive, user friendly and optimized for search engines. Editing and managing your website has never been easier.
 
 This step by step guide will help you with updating and personalize your website.
 
-To view or download a PDF version of this guide, go to:  
+To view or download a PDF version of this guide, go to:\
 [http://redassistsimages.fnistools.com/Uploads/RECos/1180/ContentFiles/red-rdesk-website-cms-pro-user-guide.pdf](http://redassistsimages.fnistools.com/Uploads/RECos/1180/ContentFiles/red-rdesk-website-cms-pro-user-guide.pdf)
 
 ## **Logging in and Dashboard Navigation**
 
-  
 Login to your website admin
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/3d339bed-714f-44cd-b0b7-bf3c96b885cf.png)
 
-You may be taken to the traditional website admin. In that case, click the ‘Launch New Website Pages Editor’ button on the welcome page. Or, on the left navigation, click on ‘My Website’ then click on ‘Website Pages’. 
+You may be taken to the traditional website admin. In that case, click the ‘Launch New Website Pages Editor’ button on the welcome page. Or, on the left navigation, click on ‘My Website’ then click on ‘Website Pages’.&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/b1be51ba-5ab7-43e9-9254-9dae5ec38cc1.png)
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/4a189b64-6de3-4c74-815a-dc05e249945c.png)
 
-##   
- **Welcome Page and Dashboard**
+##
+
+&#x20;**Welcome Page and Dashboard**
 
 The Dashboard is your starting point for managing your website content and contact information. Click on the boxes to jump to those areas or use the navigation on the left.
 
@@ -52,7 +51,7 @@ To check or update your personal information, click on your ‘name’ at the to
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/3869e0e9-cfeb-4638-a552-758d1ecb9117.png)
 
-On the left nav, click ‘**My Account’.** The navigation items will change, allowing you to click on each item to edit specific information.
+On the left nav, click ‘**My Account’.** The navigation items will change, allowing you to click on each item to edit specific information.
 
 In the panel on the right you will see your website package and design template.
 
@@ -62,26 +61,26 @@ On the left nav, click ‘**My Profile**’ to view/edit your contact informatio
 
 ## **Upload your agent photo**
 
-To upload your photo, click on the ‘Photo Not In System’ image or the ‘Change Photo’ text.  
-In the pop up window, navigate to and click on your photo to select it.  
+To upload your photo, click on the ‘Photo Not In System’ image or the ‘Change Photo’ text.\
+In the pop up window, navigate to and click on your photo to select it.\
 Click Open. Your photo will appear and display on your website.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/c3103341-4cb4-4631-bd0f-579f9bec80f4.png)
 
 Scrolling down the ‘**My Account**’ page, you will see the following fields.
 
-Enter your Cell number  
-View your Main Office phone number  
-Your phone numbers  
-Your email address  
-NAR designations  
-License information  
-Languages spoken  
+Enter your Cell number\
+View your Main Office phone number\
+Your phone numbers\
+Your email address\
+NAR designations\
+License information\
+Languages spoken\
 Update/change your user name and password
 
 _Note: Some of the fields may not be available to edit on this page. Depending on how your company has been setup, you may need to go to your company’s contact database and update your information there._
 
-If you make any changes, be sure to click the ‘**Save**’ button at the bottom of the page.  
+If you make any changes, be sure to click the ‘**Save**’ button at the bottom of the page. &#x20;
 
 ## **Website settings**
 
@@ -107,11 +106,11 @@ Allows you to compel visitors to register on your website. This generates a lead
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/94601bff-9531-401c-a8eb-8f59954ee392.png)
 
-The option, to register “After viewing \[x number\] of Property Detail” pages. Enter a number in the box to activate this option. The consumer will be compelled to register when that number is reached.
+The option, to register “After viewing \[x number] of Property Detail” pages. Enter a number in the box to activate this option. The consumer will be compelled to register when that number is reached.
 
 ## **SEO - Search Engine Optimization**
 
-Search engine optimization is important to any website. Most search engines will use the text, Photo names and links on your website to catalog your website. You also have the option to include a “Browser Title” and to modify the Robot file on your website.  
+Search engine optimization is important to any website. Most search engines will use the text, Photo names and links on your website to catalog your website. You also have the option to include a “Browser Title” and to modify the Robot file on your website.\
 It is recommended that you add a Browser Title on this page.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/901df81c-98f2-438a-aafb-1bd21a8a5a47.png)
@@ -120,7 +119,7 @@ Using the default Robot setting will allow search engines to crawl and catalog y
 
 By selecting the option to customize your robot file, you will be allowed to edit the setting in the text box below the check box options.
 
-_More information about robot.txt can be found at [https://en.wikipedia.org/wiki/Robots\_exclusion\_standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)_
+_More information about robot.txt can be found at_ [_https://en.wikipedia.org/wiki/Robots\_exclusion\_standard_](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
 
 ## **Google Analytics**
 
@@ -150,10 +149,9 @@ You are not allowed to delete your Welcome page, however click the ‘trash can�
 
 _Note: Depending on your company, some of the items on the homepage may not be editable._
 
-  
 To add a content page, click on the plus sign next to ‘Pages’ or click ‘Add Page’ at the bottom of the left nav.
 
-![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/807f0c72-8ba7-4c8f-af48-a2debbc4759a.png)      ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/7b5f7b42-72ff-4e15-a1d4-d7ab930a6207.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/807f0c72-8ba7-4c8f-af48-a2debbc4759a.png) ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/7b5f7b42-72ff-4e15-a1d4-d7ab930a6207.png)
 
 When you add a new page of content, you will be taken to the page layout options. Click on the layout to select the layout design of the page. Be sure to scroll the list, there are several to choose from.
 
@@ -161,18 +159,18 @@ Once you select the layout, you are taken to the ‘Settings’ for the page. Gi
 
 _Note: Use the page URL to link to the page from your homepage, top nav or other website or social media site._
 
-_  
-Search engines will use the Title and Description to help understand what the page is about._
+\_\
+Search engines will use the Title and Description to help understand what the page is about.\_
 
-**Page Title**, you will need to give your page a Title.  
-_See our “SEO Best Practice’s” documentation to optimize your content for search engines._
+**Page Title**, you will need to give your page a Title.\
+&#xNAN;_&#x53;ee our “SEO Best Practice’s” documentation to optimize your content for search engines._
 
-**URL**, will show you the URL for this page.  
-_You can use the URL to create a hyperlink to this page, from another page or the top nav._
+**URL**, will show you the URL for this page.\
+&#xNAN;_&#x59;ou can use the URL to create a hyperlink to this page, from another page or the top nav._
 
 **Description**, provide a description of what this page is about. Search engines will use this information to catalog this page of content.
 
-**Cancel** will back you out of the page without making any saves or changes.
+**Cancel** will back you out of the page without making any saves or changes.
 
 **Save**, will save the content. Content that is saved, will not show on your public facing website.
 
@@ -182,10 +180,9 @@ _You can use the URL to create a hyperlink to this page, from another page or th
 
 ## **Content Editor**
 
-Now you’re ready to add/edit the content. On the content page, click on the ‘Content’ tab.  
+Now you’re ready to add/edit the content. On the content page, click on the ‘Content’ tab.\
 This will show you the layout of the page, that you selected.
 
-  
 You can click on each box in the layout, to edit or modify the content or feature.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/1f4e94dd-a2fd-47c3-badf-14550db6bba0.png)
@@ -212,7 +209,7 @@ Features within the text editor include the ability to format text, create hyper
 
 **To create a hyperlink**, click and drag over the text, you would like to make into a link. Click on the chain link icon in the menu bar of the editor. A side bar will open from the left nav, where you can enter the web address of the site you want to link to, click the plus sign to add the link or click on a page within your website.
 
-![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/6f24169c-e24f-4576-987c-fa5293d5e1fe.png)     ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/db5daaba-6eaa-426d-b019-30f64c9f1ce5.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/6f24169c-e24f-4576-987c-fa5293d5e1fe.png) ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/db5daaba-6eaa-426d-b019-30f64c9f1ce5.png)
 
 To remove or edit a hyperlink, just click on the link in the editor to access the ‘Edit | Remove’ link manager.
 
@@ -222,19 +219,19 @@ To remove or edit a hyperlink, just click on the link in the editor to access th
 
 Text, Photos, videos and more can be added to your webpage.
 
-Click the Plus sign at the bottom of the content tiles to open a menu of the content widgets available. Click on the content widget to add it to your webpage.  
+Click the Plus sign at the bottom of the content tiles to open a menu of the content widgets available. Click on the content widget to add it to your webpage. &#x20;
 
 Once the widget has been added, click on the tile to access the attributes and edit the content for that widget.
 
-**Text Box** – Will allow you to add a block of text to your page.
+**Text Box** – Will allow you to add a block of text to your page.
 
-**Image** – Add a photo to your page. 
+**Image** – Add a photo to your page.&#x20;
 
-**Embed Video** – Add a video that will play right from your page.
+**Embed Video** – Add a video that will play right from your page.
 
-**Testimonial** – Add client testimonials.
+**Testimonial** – Add client testimonials.
 
-**Listing Carousel** – Add a jump search listing carousel.
+**Listing Carousel** – Add a jump search listing carousel.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/80b05c8f-1e2d-422c-bd23-3dd1ad772e1a.png)
 
@@ -260,14 +257,14 @@ The photo will show in a cropping tool, to allow you to crop the photo, if desir
 
 The cropping tool will show as a blue box around the image. Click and drag the handles (the little boxes at the corners) to include the desired image area, then click Save.
 
-If you don’t wish to crop you photo  
+If you don’t wish to crop you photo\
 click ‘**Skip Resizing**’ at the bottom left of the cropping tool window. The full image will be uploaded to the system.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/bbc12b6f-8d2e-4172-8fd4-dfbf80bb1259.png)
 
-Your photo will show in the image library box.  
-Click on the image you would like to add to your webpage.  
-You will see a thumbnail display below,  
+Your photo will show in the image library box.\
+Click on the image you would like to add to your webpage.\
+You will see a thumbnail display below,\
 then click the ‘**Insert into Page**’ button.
 
 The photo will be added to your webpage
@@ -280,10 +277,10 @@ You can embed a video on your website. The video will play right in your website
 
 _Note: The video must be hosted with YouTube or Vimeo._
 
-_From the slide-out menu, click on the ‘Embed Video’ icon to add the video box to the layout.  
-Click on the video box to open the embed video settings._
+_From the slide-out menu, click on the ‘Embed Video’ icon to add the video box to the layout._\
+&#xNAN;_&#x43;lick on the video box to open the embed video settings._
 
-_![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/6928999b-74e8-4309-9185-aa83cb133d8a.png)_
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/6928999b-74e8-4309-9185-aa83cb133d8a.png)
 
 In the URL box, enter the Video URL. You can use the URL found in the address line of the video, or on the video host site, under ‘Share’.
 
@@ -319,11 +316,10 @@ The Carousel widget will display listings based on a jump search. A jump search 
 
 To create a jump search, click on Jump Search at the bottom of the left nav, this will open the Jump Search interface in a pop-up window showing jump searches you may have already created. If you have not created any jump searches, this area will not show any jump searches.
 
-![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/9f4f082c-dc52-43bc-af1c-c07d1775f4d1.png)     
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/9f4f082c-dc52-43bc-af1c-c07d1775f4d1.png)
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/eaf43b89-8092-4416-a047-c902bbc9ba91.png)
 
-  
 Click on the red text, ‘Create New Listing Jump Search’. The property search tool will show.
 
 Give the search a name, this is a required field.
@@ -362,25 +358,22 @@ Click on the type of image you would like to upload.
 
 Note that images have size requirements. The minimum size shows just below the image type buttons. Minimum size requirements are:
 
-**Content images** must be 300 pixels wide and 200 pixels tall.
+**Content images** must be 300 pixels wide and 200 pixels tall.
 
-**Banner images** must be 925 pixels wide and 400 pixels tall.
+**Banner images** must be 925 pixels wide and 400 pixels tall.
 
-**Logo images** much be 300 pixels wide and 30 pixels tall.
+**Logo images** much be 300 pixels wide and 30 pixels tall.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/5b3dca9a-3888-4588-870d-83c5cb583b29.png)
 
-  
 To upload a new photo, you can drag and drop your photo to the ‘Add a Photo’ box or click in the ‘Add a Photo’ box, to navigate to the photo you would like to upload.
 
-  
 _Note: The steps will be the same for Content Images, Banner Images and Logos._
 
 The photo will show in a cropping tool, to allow you to crop the photo, if desired. The cropping tool will show as a blue box around the image. Click and drag the handles (the little boxes at the corners) to include the desired image area, then click Save.
 
 Your photo will show in the image library box.
 
-  
 Click on the image you would like to add to your webpage.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/b6209db0-0168-4ef5-bb45-2826457613ea.png)
@@ -401,7 +394,6 @@ In the URL section, click the down arrow to select the page that will be linked 
 
 If you are linking to a website or page that is on the internet and not a content page on your website, enter the address (URL) of the webpage you want to link to.
 
-  
 _Example: GreatSchools.com_
 
 Include a short description of the page you are linking to in the ‘Alt Text’ field. This will show when you mouse over the link. Search engines will also use this information to understand what the link is about.
@@ -426,7 +418,7 @@ To access the Banners and Logos, click on ‘**Banner & Logo**’ on the left na
 
 To select a new banner or upload a custom banner, click on the banner image in the left nav. This will open the Banner Image library.
 
-![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/b0ee6817-d988-4400-8fa1-b43e01a32f0a.png)    ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/7938873d-0de5-4d3e-9853-3a308f68e9bc.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/b0ee6817-d988-4400-8fa1-b43e01a32f0a.png) ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/7938873d-0de5-4d3e-9853-3a308f68e9bc.png)
 
 In the pop up window, click on the banner image you would like to use on your website or upload a custom banner.
 

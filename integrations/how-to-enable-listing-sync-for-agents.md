@@ -1,31 +1,30 @@
-
 # How to Enable Listing Sync for Agents
 
-The below article reviews how to enable listing sync for Agents. 
+The below article reviews how to enable listing sync for Agents.&#x20;
 
- Step 1: Log into your company Paradym account  
+&#x20;Step 1: Log into your company Paradym account &#x20;
 
-Log into your company Paradym account with your broker or admin credentials. Utilize the drop-down arrow located in the upper-right corner and navigate to “Account Management.” 
+Log into your company Paradym account with your broker or admin credentials. Utilize the drop-down arrow located in the upper-right corner and navigate to “Account Management.”&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowtoEnableListingSyncforAgents/ELSFAimage1.png)
 
-Step 2:  Select the agent profile you’d like to connect. 
+Step 2:  Select the agent profile you’d like to connect.&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowtoEnableListingSyncforAgents/ELSFAimage2.png)
 
-Step 3: Once the agent profile has been selected, you will see a “Select an Action” from the drop-down menu in the upper right corner.  
+Step 3: Once the agent profile has been selected, you will see a “Select an Action” from the drop-down menu in the upper right corner. &#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowtoEnableListingSyncforAgents/ELSFAimage3.png)
 
-Step 4: Select “Connect Listing Sync”  
+Step 4: Select “Connect Listing Sync” &#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowtoEnableListingSyncforAgents/ELSFAimage4.png)
 
-Step 5: Type in an active MLS # for the agent and select “Lookup”  
+Step 5: Type in an active MLS # for the agent and select “Lookup” &#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowtoEnableListingSyncforAgents/ELSFAimage5.png)
 
-Step 6: Once the search has found the agent's listing, please select the “Select” option from the search results. Please allow 24-48 hours for the agent’s tours to begin populating through Paradym.   
+Step 6: Once the search has found the agent's listing, please select the “Select” option from the search results. Please allow 24-48 hours for the agent’s tours to begin populating through Paradym.  &#x20;
 
 Finish
 

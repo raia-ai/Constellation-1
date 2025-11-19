@@ -1,9 +1,8 @@
-
 # Accounting - System Setting GLSORTNAME
 
 The purpose of this article is to provide information regarding system setting **GLSORTNAME**.
 
-System setting **GLSORTNAME** allows you to sort the GL account dropdown selection list by account name then account number. 
+System setting **GLSORTNAME** allows you to sort the GL account dropdown selection list by account name then account number.&#x20;
 
 The default is set to disabled:
 
@@ -17,14 +16,14 @@ With system setting **GLSORTNAME** enabled, the GL account dropdown selection li
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/e599a8d5-159e-4098-afb0-5752d8689c38)
 
-Note:  With system setting **GLSORTNAME** enabled, the matching will only be applied to the start of the description and not anywhere within the description.  For example, if you want to select the **Prepaid Rent** GL account, you would need to start typing **"Prepaid."**  If instead you typed in **"Rent"** you would not be able to select the correct GL account. 
+Note:  With system setting **GLSORTNAME** enabled, the matching will only be applied to the start of the description and not anywhere within the description.  For example, if you want to select the **Prepaid Rent** GL account, you would need to start typing **"Prepaid."**  If instead you typed in **"Rent"** you would not be able to select the correct GL account.&#x20;
 
 To enable system setting **GLSORTNAME**, navigate to **System > Setup > System Settings**.
 
-*   Filter for system setting **GLSORTNAME**
-*   Click **Edit**
-*   Check the **Enabled?** box
-*   **Save**
+* Filter for system setting **GLSORTNAME**
+* Click **Edit**
+* Check the **Enabled?** box
+* **Save**
 
 Was this article helpful to you?
 

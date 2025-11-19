@@ -1,4 +1,3 @@
-
 # Layouts Best Practices | Constellation1 Customer Hub
 
 **Best Practice: Make JavaScript and CS:S external:**
@@ -11,11 +10,11 @@
 
 **Validate markup syntax:**
 
-Description: When adding new HTML/JS/CSS to a layout, make sure you validate the syntax and structure of the code using a validator tool. This will ensure you conforming to the w3c best practices. Example: [http://validator.w3.org/#validate\_by\_input](http://validator.w3.org/#validate_by_input)
+Description: When adding new HTML/JS/CSS to a layout, make sure you validate the syntax and structure of the code using a validator tool. This will ensure you conforming to the w3c best practices. Example: [http://validator.w3.org/#validate\_by\_input](http://validator.w3.org/#validate_by_input)
 
 **Best Practice: (JS/CSS) - Link to local repository version of source code:**
 
-       Often times, you may have the need to embed an open source JavaScript/CSS file into the layouts. This is quite common as there are a number of open source frameworks available to the public to make the development of custom controls a little bit easier. An example of this can be seen when using jQuery/Twitter Bootstrap framework files. Many times, these files come from publicly accessible repositories like GitHub. Rather than linking directly to the public network source code file, the best practice here is to take a copy of the source code found at that time, upload it as a content file in the website admin tool, and link to this file in the layouts. The primary reason to do this is because the open source development community can often make code changes to these public files that could have a negative impact on the client who is consuming the code. This could result in a breaking change. For more instruction on how to add content files and reference them in layouts, please refer to the section on “How to: Make JavaScript and CSS external.”
+&#x20;      Often times, you may have the need to embed an open source JavaScript/CSS file into the layouts. This is quite common as there are a number of open source frameworks available to the public to make the development of custom controls a little bit easier. An example of this can be seen when using jQuery/Twitter Bootstrap framework files. Many times, these files come from publicly accessible repositories like GitHub. Rather than linking directly to the public network source code file, the best practice here is to take a copy of the source code found at that time, upload it as a content file in the website admin tool, and link to this file in the layouts. The primary reason to do this is because the open source development community can often make code changes to these public files that could have a negative impact on the client who is consuming the code. This could result in a breaking change. For more instruction on how to add content files and reference them in layouts, please refer to the section on “How to: Make JavaScript and CSS external.”
 
 **Best Practice: Create a new Version:**
 

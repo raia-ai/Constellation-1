@@ -1,36 +1,35 @@
-
 # Batching Checks/Cheques | Constellation1 Customer Hub
 
 This article outlines the process to batch multiple checks/cheques into a single check/cheque when integrated with your accounting solution.
 
-The Batch Checks/Cheques card will populate with transactions that have been closed; whether processed or not.  
+The Batch Checks/Cheques card will populate with transactions that have been closed; whether processed or not. &#x20;
 
 Batch Checks/Cheques can be accessed by selecting Accounting on the left navigation bar, then Batch Checks/Cheques tab.
 
 Checks/Cheques can be retrieved using the filters below:
 
-*   Check/Cheque Date: From/To
-*   Payee, this drop down is mandatory in order to display all the checks/cheques for a specific Payee
-*   Bank Account
+* Check/Cheque Date: From/To
+* Payee, this drop down is mandatory in order to display all the checks/cheques for a specific Payee
+* Bank Account
 
-Once you make your selections, select **Retrieve.** The following columns can be sorted if required: 
+Once you make your selections, select **Retrieve.** The following columns can be sorted if required:&#x20;
 
-*   Amount
-*   Memo
-*   Bank Acc #
-*   Issue Date
-*   Posted (N=Not Posted and Y=Posted)
+* Amount
+* Memo
+* Bank Acc #
+* Issue Date
+* Posted (N=Not Posted and Y=Posted)
 
 To batch checks/cheques:
 
-*   Select checks/cheques to batch
-*   Select **chain link** at the bottom right of the window
+* Select checks/cheques to batch
+* Select **chain link** at the bottom right of the window
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/87904a8e-1fd9-4439-8439-7b5d2465f758)
 
 The individual checks/cheques will be voided and a single batched check/cheque will integrate to your accounting solution with the current date.
 
-If a batched Check/Cheque fails, both the closed transaction and the failed batch will display via Sync Closings tab of the Accounting menu and you will receive a warning indicating the issue similar to below. 
+If a batched Check/Cheque fails, both the closed transaction and the failed batch will display via Sync Closings tab of the Accounting menu and you will receive a warning indicating the issue similar to below.&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/bfc11fe9-cb70-4f34-ab51-b678f814d9bf)
 

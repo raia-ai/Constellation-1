@@ -1,4 +1,3 @@
-
 # Constellation1 Commissions April 2025 Release Notes v4.2
 
 Production Release: April 15, 2025, v4.2
@@ -7,7 +6,7 @@ Production Release: April 15, 2025, v4.2
 
 **Documents:** Added ability to download/delete en masse
 
-**Favorite Bookmarks**: Added Favorites bookmark in Reports Module  
+**Favorite Bookmarks**: Added Favorites bookmark in Reports Module\
 **Dashboard**: Added Dashboard configuration
 
 **Skyslope/Dotloop**: Added Listings functionality
@@ -46,13 +45,13 @@ As well, we have enhanced the Agent Production Detail Report to not only include
 
 ![A screenshot of a computerAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/fba3535e-a074-4fb2-ba23-5e755d62caec)
 
-In addition, we have added the ability to copy the Agent Incentive Report to Custom Reports in the event you wish to customize it. We have also added several custom fields to support this  
+In addition, we have added the ability to copy the Agent Incentive Report to Custom Reports in the event you wish to customize it. We have also added several custom fields to support this\
 functionality. Please note that Transaction Details will be excluded from the Copy process.
 
 ![A screenshot of a computerAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/b3d8a572-a259-43eb-9446-aad27596d91a)
 
-Dashboard  
-We have added the ability for clients to customize the view of their Dashboard.  By selecting the configure button as below:
+Dashboard\
+We have added the ability for clients to customize the view of their Dashboard.  By selecting the configure button as below:
 
 ![A screenshot of a blue screenAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/bbc39c26-6be5-4639-816a-f142e7407327)
 
@@ -64,12 +63,12 @@ As well, for those clients that integrate to an accounting platform such as Quic
 
 ![A screen shot of a blue boxAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/f3edd844-f541-4222-ba5f-0bbf50f6fa17)
 
-Skyslope/Dotloop  
+Skyslope/Dotloop\
 For those clients that integrate with Skyslope and Dotloop, we have added the ability to retrieve based on date filters and Offices, similar to that of Transactions
 
 ![A screenshot of a computerAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/be47e5ce-ea9d-47fc-a0d2-cd860a191d38)
 
-eSign  
+eSign\
 When sending Trade Record Sheets or Disbursement Authorizations via eSign the system will have an acknowledgement appear notifying user of pending charge for eSign session prior to sending
 
 ![A screenshot of a sign up sheetAI-generated content may be incorrect.](https://constellation1.na3.teamsupport.com/api/attachments/action/1/d556e64a-20bd-4294-863c-c6fe0fcabe6c)
@@ -98,4 +97,4 @@ Previously, we had identified a challenge where partial payments were not proper
 
 2\. Bonus Override Journal Entries Not Balancing
 
-We identified an issue where Bonus Override journal entries were not balancing.  We have fixed this credit/debit balancing error on bonus override journal entries with 3 bank system and tax is enabled.
+We identified an issue where Bonus Override journal entries were not balancing.  We have fixed this credit/debit balancing error on bonus override journal entries with 3 bank system and tax is enabled.

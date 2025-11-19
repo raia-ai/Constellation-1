@@ -1,63 +1,62 @@
-
 # How To Connect Paradym To Branded YouTube
 
-This Article reviews How To Connect Paradym To Branded YouTube.
+This Article reviews How To Connect Paradym To Branded YouTube.
 
-Brief Description/Summary:  Do you want to effortlessly boost your search engine optimization (SEO)? YouTube is the second search engine in the world. Only second to Google. Google owns YouTube. As a result, you make it easier for users already looking for you, to find you!   
+Brief Description/Summary:  Do you want to effortlessly boost your search engine optimization (SEO)? YouTube is the second search engine in the world. Only second to Google. Google owns YouTube. As a result, you make it easier for users already looking for you, to find you!  &#x20;
 
-As always, the following instructions involve logging into your Paradym online account. Head over to Paradym.com, click "My Account." Log into your account. Then, follow the instructions below.  
+As always, the following instructions involve logging into your Paradym online account. Head over to Paradym.com, click "My Account." Log into your account. Then, follow the instructions below. &#x20;
 
-Step 1: Click your name at the top right and select your "Settings" option from the drop down menu. 
+Step 1: Click your name at the top right and select your "Settings" option from the drop down menu.&#x20;
 
- ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/5ee73355-f74c-43ca-8fd5-c8a9b71cf581.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/5ee73355-f74c-43ca-8fd5-c8a9b71cf581.png)
 
-Step 2: Click, “Connections,” under Social Media. Alternately, you can also click, ”Change,” under Social Connections.  
+Step 2: Click, “Connections,” under Social Media. Alternately, you can also click, ”Change,” under Social Connections. &#x20;
 
- ![Graphical user interface, text, application
+![Graphical user interface, text, application
 Description automatically generated](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/b9632f40-643b-4c44-9c00-eec015c39221.png)
 
-Step 3: Click the plus (+) sign next to YouTube.  
+Step 3: Click the plus (+) sign next to YouTube. &#x20;
 
- ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/2b35728e-8024-41d0-9dc9-a2cdc7793efc.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/2b35728e-8024-41d0-9dc9-a2cdc7793efc.png)
 
-Step 4: Select An Account You Want To Connect. 
+Step 4: Select An Account You Want To Connect.&#x20;
 
- ![Graphical user interface, text, application
+![Graphical user interface, text, application
 Description automatically generated](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/e817b46e-1183-4a80-be48-c98187bd321f.png)
 
-NOTE: You will chose the channel you want Paradym to post. The profile will say YouTube under it.  It you DO NOT see this, Paradym Support will help you set a channel up. A channel set is necessary for Paradym listing syndication to YouTube.  
+NOTE: You will chose the channel you want Paradym to post. The profile will say YouTube under it.  It you DO NOT see this, Paradym Support will help you set a channel up. A channel set is necessary for Paradym listing syndication to YouTube. &#x20;
 
-Step 5: Select "Allow"
+Step 5: Select "Allow"
 
- ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/d80b6a8e-c2b7-4996-872e-2ad266f05665.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/d80b6a8e-c2b7-4996-872e-2ad266f05665.png)
 
-Step 6: YouTube Settings (see below for notes and options)
+Step 6: YouTube Settings (see below for notes and options)
 
- ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/5f5342d4-8e33-41d5-a515-084d9690df5c.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/5f5342d4-8e33-41d5-a515-084d9690df5c.png)
 
-**NOTES:    Options below**
+**NOTES:    Options below**
 
-(a) If you have any existing tours prior to connecting to your YouTube channel, you have the option to send them to YouTube all at once.  
+(a) If you have any existing tours prior to connecting to your YouTube channel, you have the option to send them to YouTube all at once. &#x20;
 
-*   Just checkmark, ”You have “X” active tours that have not been posted. Post these tours?”  
+* Just checkmark, ”You have “X” active tours that have not been posted. Post these tours?” &#x20;
 
-(b) Delete my videos for sold tours.  
+(b) Delete my videos for sold tours. &#x20;
 
-*   Videos will automatically delete from your channel 36 hours after a tour is marked Sold.  
+* Videos will automatically delete from your channel 36 hours after a tour is marked Sold. &#x20;
 
-(c) Use tour cover photo as YouTube video thumbnail.  
+(c) Use tour cover photo as YouTube video thumbnail. &#x20;
 
-*   This will set your first photo, usually the front exterior, as the lead photo of your video.  
-*   Locate,  " \* Requires your YouTube account to be verified. To verify your account, please visit this link."  
+* This will set your first photo, usually the front exterior, as the lead photo of your video. &#x20;
+* Locate,  " \* Requires your YouTube account to be verified. To verify your account, please visit this link." &#x20;
 
-                    {Click, “link,” and follow prompts}
+&#x20;                   {Click, “link,” and follow prompts}
 
-(d) Once verified, hit  "Save."
+(d) Once verified, hit  "Save."
 
-Step 7:  YouTube Versus YouTube (Unbranded)  
+Step 7:  YouTube Versus YouTube (Unbranded) &#x20;
 
- ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/cb1a78a4-fe1e-410c-8314-c2a1bb30d7d0.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/cb1a78a4-fe1e-410c-8314-c2a1bb30d7d0.png)
 
-NOTE: You cannot connect the same channel to both YouTube and YouTube (Unbranded). It will not work.  To learn more about the Unbranded YouTube connection, please locate and read through our Knowledge Base Articles on UnBranded YouTube channel connection.
+NOTE: You cannot connect the same channel to both YouTube and YouTube (Unbranded). It will not work.  To learn more about the Unbranded YouTube connection, please locate and read through our Knowledge Base Articles on UnBranded YouTube channel connection.
 
 FINISHED

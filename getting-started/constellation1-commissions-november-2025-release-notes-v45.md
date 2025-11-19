@@ -1,4 +1,3 @@
-
 # Constellation1 Commissions November 2025 Release Notes v4.5
 
 Production Release: November 4, 2025
@@ -13,19 +12,19 @@ This release introduces several enhancements to **Constellation1 Commissions**, 
 
 You can now **view and email all transaction letters and statements**, including:
 
-*   **Disbursement Authorization (DA)**
-*   **Transaction Record Sheet**
+* **Disbursement Authorization (DA)**
+* **Transaction Record Sheet**
 
 The Online Document Viewer is also available in:
 
-*   **Agent View**
-*   **Team Leader View**
+* **Agent View**
+* **Team Leader View**
 
 This enhancement provides faster, easier access to essential transaction documents.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/d4490d5b-62a1-41de-a70e-80720011cbf3)
 
-* * *
+***
 
 ### **📋 Tasks & Checklist Enhancements**
 
@@ -41,35 +40,35 @@ Agents can now **generate, view, and edit** transaction forms **before sending t
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/37073a9b-4259-46c3-b716-404e6d58df8b)
 
-* * *
+***
 
 ### **📨 Letter Template Updates**
 
-The **Seller's Attorney Master Template** has been refined so trust deposit details display accurately and only when applicable.  
+The **Seller's Attorney Master Template** has been refined so trust deposit details display accurately and only when applicable.\
 This ensures greater clarity and consistency in your outgoing correspondence.
 
-* * *
+***
 
 ### **🔗 Berkshire Hathaway HomeServices Reflex Integration**
 
-Franchise reporting has been enhanced for smoother and more accurate updates at the time of closing.  
+Franchise reporting has been enhanced for smoother and more accurate updates at the time of closing.\
 Transactions now automatically queue for inclusion in the next franchise report, reducing manual adjustments and improving data reliability.
 
-* * *
+***
 
 ### **📊 Reports**
 
 **Trust Reports** now default the **“Zero Amount” filter** to “Exclude,” providing cleaner, more relevant report results with less setup time.
 
-* * *
+***
 
 ## **✅ Issues Resolved**
 
 This release includes several refinements that improve overall usability, accuracy, and reliability throughout Commissions:
 
-*   **Transaction Notes** – Reminder dates now display accurately across all browsers.
-*   **Transaction Deposit** – Deposit receipts now display with consistent alignment for easier review.
-*    **Dashboard** – Advanced filters and dashboard settings now appear correctly for a smoother user experience.
-*   **Agent Commission Detail** – Fees and deductions now refresh automatically when commission plans are updated.
+* **Transaction Notes** – Reminder dates now display accurately across all browsers.
+* **Transaction Deposit** – Deposit receipts now display with consistent alignment for easier review.
+* &#x20;**Dashboard** – Advanced filters and dashboard settings now appear correctly for a smoother user experience.
+* **Agent Commission Detail** – Fees and deductions now refresh automatically when commission plans are updated.
 
 These updates create a more stable, efficient experience for brokers, office administrators, and agents.

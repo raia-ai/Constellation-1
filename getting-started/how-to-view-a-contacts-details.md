@@ -1,4 +1,3 @@
-
 # How to View a Contact's Details
 
 To view a contact’s details, click on their name.
@@ -35,7 +34,7 @@ The details page is organized into the following sections:
 
 • **To Do’s**: To Do’s will show action items that are pending, due or overdue. Click on the “+To Dos” to add a new To Do item.
 
-• **Contact Details**: View and edit specific details regarding the lead, such as name, email address, and phone number. An additional person can be added to the contact record. The additional person could be a spouse, business associate or other interested people. 
+• **Contact Details**: View and edit specific details regarding the lead, such as name, email address, and phone number. An additional person can be added to the contact record. The additional person could be a spouse, business associate or other interested people.&#x20;
 
 • **Personal Details**: Here you can add the birthdate, home anniversary, nickname, employer and job title for your lead.
 
@@ -53,18 +52,18 @@ The details page is organized into the following sections:
 
 **Properties Tab:**
 
-*   There are two different views of the Properties page.
-*   This is determined by the contact type either being a lead, or a client.
-*   If the contact is a lead, this page will show properties they have viewed.
-*   Click on the property photo to view the property detail page.
-*   If the contact is a client, this page will have more functionality available such as the ability to view, add, or edit their saved searches and saved properties.
-*   You can see both properties they have inquired about as well as properties they have viewed.
+* There are two different views of the Properties page.
+* This is determined by the contact type either being a lead, or a client.
+* If the contact is a lead, this page will show properties they have viewed.
+* Click on the property photo to view the property detail page.
+* If the contact is a client, this page will have more functionality available such as the ability to view, add, or edit their saved searches and saved properties.
+* You can see both properties they have inquired about as well as properties they have viewed.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/e3972e9e-be75-4d75-81c4-79f8c513a39d)
 
 **History Tab:**
 
-*   In this section, you can see Actions, Activities, Lead Routing, Emails sent and more.
-*   The most recent activity will show at the top.
+* In this section, you can see Actions, Activities, Lead Routing, Emails sent and more.
+* The most recent activity will show at the top.
 
 If you require any assistance with your setup or have questions, please contact our support team at support@nestfully.com.

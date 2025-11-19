@@ -1,7 +1,6 @@
-
 # RED RDesk CRM Lead Admin Lead Routing
 
-Please see the attached PDF for instructions on Lead Routing. 
+Please see the attached PDF for instructions on Lead Routing.&#x20;
 
 Was this article helpful to you?
 

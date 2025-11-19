@@ -1,7 +1,6 @@
-
 # Remote Desktop Connection; How to Save and Configure
 
-The purpose of this article is to provide users the steps to save their Constellation1 Remote Desktop Connection credentials, and to ensure the local printer is enabled. 
+The purpose of this article is to provide users the steps to save their Constellation1 Remote Desktop Connection credentials, and to ensure the local printer is enabled.&#x20;
 
 Double click on RDP file attached to the e-mail received and select Save
 
@@ -39,7 +38,7 @@ Select Connect and paste the password provided. Users may want to select the "vi
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/920c155b-b447-4980-86bc-bcace79b1ab9)
 
-**If the password does not save as expected, you can try to re-save the password by following the instructions detailed here; [How to Resave the Password for the Remote Desktop Connection](https://constellation1.na3.teamsupport.com/knowledgeBase/25381126)**
+**If the password does not save as expected, you can try to re-save the password by following the instructions detailed here;** [**How to Resave the Password for the Remote Desktop Connection**](https://constellation1.na3.teamsupport.com/knowledgeBase/25381126)
 
 Was this article helpful to you?
 

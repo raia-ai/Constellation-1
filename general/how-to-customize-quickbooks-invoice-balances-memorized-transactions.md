@@ -1,41 +1,40 @@
-
 # How to Customize QuickBooks® Invoice Balances & Memorized Transactions
 
-This article outlines how to modify the customer invoice template to include Customer Total Balance and update Memorized Transactions with the new invoice template. Version: QuickBooks® Desktop.
+This article outlines how to modify the customer invoice template to include Customer Total Balance and update Memorized Transactions with the new invoice template. Version: QuickBooks® Desktop.
 
-*   Open Templates under  Lists > **Templates**
-*   Select Current Copy of Template: Intuit Service Invoice Template
-*   Make a new copy of Copy of Intuit of Intuit Service Invoice: select **Copy** and **OK**
-*   Select **Additional Customization**
+* Open Templates under  Lists > **Templates**
+* Select Current Copy of Template: Intuit Service Invoice Template
+* Make a new copy of Copy of Intuit of Intuit Service Invoice: select **Copy** and **OK**
+* Select **Additional Customization**
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-QBinvoiceBalancesMemorizedTransactions/QBinvoiceBalancesMemorizedTransactions1.png)
 
-Navigate to the Footer Tab > At the Balance Due line add check mark to **Print**  
+Navigate to the Footer Tab > At the Balance Due line add check mark to **Print** &#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-QBinvoiceBalancesMemorizedTransactions/QBinvoiceBalancesMemorizedTransactions2.png)
 
-*   Select **Print Preview**  > Confirm Customer Total balance appears on the template and select **OK**
-*   Test Newest Template by selecting a customer with an existing balance
+* Select **Print Preview**  > Confirm Customer Total balance appears on the template and select **OK**
+* Test Newest Template by selecting a customer with an existing balance
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-QBinvoiceBalancesMemorizedTransactions/QBinvoiceBalancesMemorizedTransactions3.png)
 
-Create a new invoice using the new template 
+Create a new invoice using the new template&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-QBinvoiceBalancesMemorizedTransactions/QBinvoiceBalancesMemorizedTransactions4.png)
 
-Select Print Preview to see result: 
+Select Print Preview to see result:&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-QBinvoiceBalancesMemorizedTransactions/QBinvoiceBalancesMemorizedTransactions5.png)
 
 **Replace Memorized Transaction (New customer invoice template)**
 
-*   Open Memorized Transactions
-*   Double Click on an existing agent Invoice
-*   Change to Newest Template
+* Open Memorized Transactions
+* Double Click on an existing agent Invoice
+* Change to Newest Template
 
- ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-QBinvoiceBalancesMemorizedTransactions/QBinvoiceBalancesMemorizedTransactions6.png)
+![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-QBinvoiceBalancesMemorizedTransactions/QBinvoiceBalancesMemorizedTransactions6.png)
 
-Select Memorize and then select Replace
+Select Memorize and then select Replace
 
 When prompted to record the transaction select **No**
 

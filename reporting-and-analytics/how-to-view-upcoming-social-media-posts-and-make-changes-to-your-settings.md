@@ -1,4 +1,3 @@
-
 # How to View Upcoming Social Media Posts and Make Changes to Your Settings
 
 The below article reviews how to view your upcoming social media post and if you need to make any small changes.
@@ -15,7 +14,7 @@ Step 4: How to edit automated Reach Social schedule (Categories and Schedule)
 
 Step 5: Shared Listings (if applicable)
 
-Step 1: Go to www.Paradym.com and Click on "My Account" to get signed into your Paradym account. Sign into your Paradym account using your Log-In credentials: username and password. Click Sign In.   Next, Utilize the drop-down arrow located in the upper-right corner with your name and navigate within the drop down menu to “Dashboard.”  
+Step 1: Go to www.Paradym.com and Click on "My Account" to get signed into your Paradym account. Sign into your Paradym account using your Log-In credentials: username and password. Click Sign In.   Next, Utilize the drop-down arrow located in the upper-right corner with your name and navigate within the drop down menu to “Dashboard.” &#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowToViewUpComingSocialMediaPosts/HTVUCSMPimage1.png)
 
@@ -23,7 +22,7 @@ Next, please locate and select the “Social Schedule” option from the listed 
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowToViewUpComingSocialMediaPosts/HTVUCSMPimage2.png)
 
-Note: You are there. You should now be seeing up to 30 days of social media content that will be posted for you on your social media pages! If you are not able to see your full 30 days of content, you should not be alarmed at the time. Paradym has a calendar fill for every 30 days at a time, and it will likely reset itself for you automatically with a new calendar fill once your previous 30 days calendar has been completed.  See below
+Note: You are there. You should now be seeing up to 30 days of social media content that will be posted for you on your social media pages! If you are not able to see your full 30 days of content, you should not be alarmed at the time. Paradym has a calendar fill for every 30 days at a time, and it will likely reset itself for you automatically with a new calendar fill once your previous 30 days calendar has been completed.  See below
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowToViewUpComingSocialMediaPosts/HTVUCSMPimage3.png)
 
@@ -33,7 +32,7 @@ You can make any necessary changes or edits to each post by clicking in the appr
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowToViewUpComingSocialMediaPosts/HTVUCSMPimage4.png)
 
-You can also make a few changes from the menu of options on the left under each social media icon: Post Now, Reschedule for a different day and specific time, Preview, Share to Personal ‘Facebook’ Page, Share to Instagram, and Remove the post altogether from your schedule.  See image below.
+You can also make a few changes from the menu of options on the left under each social media icon: Post Now, Reschedule for a different day and specific time, Preview, Share to Personal ‘Facebook’ Page, Share to Instagram, and Remove the post altogether from your schedule.  See image below.
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowToViewUpComingSocialMediaPosts/HTVUCSMPimage5.png)
 
@@ -49,21 +48,21 @@ Next, from the menu of options on the left side of your screen, please click and
 
 You Should now see a screen to select different options for Tour Sharing
 
-When would you like your post scheduled? 
+When would you like your post scheduled?&#x20;
 
-1\. Use Smart Schedule = We post for you at most optimal times automatically for you                             
+1\. Use Smart Schedule = We post for you at most optimal times automatically for you                            &#x20;
 
-2\. Use Instant Posting option = When a tour gets created, we will post for you instantly           
+2\. Use Instant Posting option = When a tour gets created, we will post for you instantly          &#x20;
 
 3\. I’ll post manually = Gives you 100% control to post tours manually when convenient to you
 
-How would you like your comments to appear (recommended using Smart Comments)                           
+How would you like your comments to appear (recommended using Smart Comments)                          &#x20;
 
 1\. Or, you can add your own comments = What do you want your post to say?
 
-Options (Automatically repost property tours; drop down menu with list of options)                         
+Options (Automatically repost property tours; drop down menu with list of options)                        &#x20;
 
-1\. Post your tours automatically periodically as specified until the listing sells!               
+1\. Post your tours automatically periodically as specified until the listing sells!              &#x20;
 
 1a. Never, Weekly, Bi-Weekly, or Monthly
 
@@ -71,7 +70,7 @@ Options (Automatically repost property tours; drop down menu with list of option
 
 Step 4: How to edit automated Reach Social schedule (Categories and Schedule)
 
-Depending on the product line you have subscription with Paradym, you may have your Reach Social platform as well. First, you will want to make sure you get logged into your Paradym account. Once you are logged into your account, locate your full name at the top right and select the drop down menu. From the drop down menu, please Select “Settings” – see image below.  
+Depending on the product line you have subscription with Paradym, you may have your Reach Social platform as well. First, you will want to make sure you get logged into your Paradym account. Once you are logged into your account, locate your full name at the top right and select the drop down menu. From the drop down menu, please Select “Settings” – see image below. &#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowToViewUpComingSocialMediaPosts/HTVUCSMPimage9.png)
 
@@ -87,9 +86,9 @@ ALWAYS – be sure to Save your work when you are finished editing or making cha
 
 Step 5: Shared Listings (if applicable)
 
-First, you will want to make sure you get logged into your Paradym account. Once you are logged into your account, locate your full name at the top right and select the drop down menu. From the drop down menu, please Select “Settings.”  Then, from the menu of options on the left, please click and select the “Shared Listings” option. 
+First, you will want to make sure you get logged into your Paradym account. Once you are logged into your account, locate your full name at the top right and select the drop down menu. From the drop down menu, please Select “Settings.”  Then, from the menu of options on the left, please click and select the “Shared Listings” option.&#x20;
 
-*   Here you can make any scheduling changes to the days of the week you’d like Shared Listings to be enabled, you can also make changes to the price range for shared listings preferences and also selecting your location preferences. Click “Save” once finished!
+* Here you can make any scheduling changes to the days of the week you’d like Shared Listings to be enabled, you can also make changes to the price range for shared listings preferences and also selecting your location preferences. Click “Save” once finished!
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ParadymArticles/KB-HowToViewUpComingSocialMediaPosts/HTVUCSMPimage12.png)
 

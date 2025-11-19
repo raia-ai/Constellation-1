@@ -1,97 +1,96 @@
-
 # How to Set Up a New ListHub Account
 
 This Articles reviews How to Set Up a New ListHub Account
 
-**Brief Description/Summary:**  ListHub offers the means to pull listing data from a supported MLS and automatically generate tours. Not all brokerages are eligible for ListHub. This tutorial is to show how to locate CMA’s eligible for Listing Sync and how to enable them in the back office. This can be applied to new CMA’s or existing CMA’s that may not have Listing Sync enabled but might be eligible via ListHub.  
+**Brief Description/Summary:**  ListHub offers the means to pull listing data from a supported MLS and automatically generate tours. Not all brokerages are eligible for ListHub. This tutorial is to show how to locate CMA’s eligible for Listing Sync and how to enable them in the back office. This can be applied to new CMA’s or existing CMA’s that may not have Listing Sync enabled but might be eligible via ListHub. &#x20;
 
-**Step 1:  Obtain an active MLS number**. You can ask a broker for the latest listing that’s been active for at least 48 hours. Or you can look up the latest tour created on the CMA and reference the MLS number. For the latter, please see below.
+**Step 1:  Obtain an active MLS number**. You can ask a broker for the latest listing that’s been active for at least 48 hours. Or you can look up the latest tour created on the CMA and reference the MLS number. For the latter, please see below.
 
-(A) Log into your back office by heading over to Paradym.com and logging into your account. 
+(A) Log into your back office by heading over to Paradym.com and logging into your account.&#x20;
 
-(B) Click your name and select, “Back Office.” 
+(B) Click your name and select, “Back Office.”&#x20;
 
-(C) Under Acct Maintenance, click, ”Look Up Customers.” 
+(C) Under Acct Maintenance, click, ”Look Up Customers.”&#x20;
 
-(D) Enter Account number into Account # field and click, “Find Now.” 
+(D) Enter Account number into Account # field and click, “Find Now.”&#x20;
 
-(E) Click the hyper link account number under Broker Acct#.  
+(E) Click the hyper link account number under Broker Acct#. &#x20;
 
-(F) Click the Tours link at the bottom of the next page.  
+(F) Click the Tours link at the bottom of the next page. &#x20;
 
-(G) Locate a tour with an Active Status. Locate the MLS number. Right-Click and Copy. 
+(G) Locate a tour with an Active Status. Locate the MLS number. Right-Click and Copy.&#x20;
 
-**Step 2: Verify if the MLS is supported.**  
+**Step 2: Verify if the MLS is supported.** &#x20;
 
-(A) Head over to Realtor.com. In the search field, enter pound (#), paste the MLS number and Search.  
+(A) Head over to Realtor.com. In the search field, enter pound (#), paste the MLS number and Search. &#x20;
 
-(B) Scroll down, locate and take note the MLS association towards the bottom of the page.  
+(B) Scroll down, locate and take note the MLS association towards the bottom of the page. &#x20;
 
-(C) Head over to ListHub.com.  
+(C) Head over to ListHub.com. &#x20;
 
-(D) Click MLSs. Click Supported MLS. Please see below:   
+(D) Click MLSs. Click Supported MLS. Please see below:  &#x20;
 
- ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/db2e161e-48a9-4662-9f18-558168b9023f.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/db2e161e-48a9-4662-9f18-558168b9023f.png)
 
-(E) Select the state where the CMA is based to see if their MLS supported. 
+(E) Select the state where the CMA is based to see if their MLS supported.&#x20;
 
- ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/a974cd79-7870-42b0-a7ff-14aa58c3f934.png)
+![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/a974cd79-7870-42b0-a7ff-14aa58c3f934.png)
 
-\* Note, make sure their MLS is listed before proceeding. \* 
+\* Note, make sure their MLS is listed before proceeding. \*&#x20;
 
 **Step 3: CALL LISTHUB options**
 
-*   Creating duplicate ListHub profiles can cause delays.
-*   To avoid delays, call 1-877-560-0171.
-*   Reference the MLS number and MLS Affiliation.
-*   If an account DOESN’T exist, call admin / broker and skip to step # 4.
-*   If an account exists, take note of the name and email address associated with the account.
-*   Call admin and have them Forgot Password on ListHub.com and follow up when then get their ListHub login credentials.
-*   Skip to step # 7. 
+* Creating duplicate ListHub profiles can cause delays.
+* To avoid delays, call 1-877-560-0171.
+* Reference the MLS number and MLS Affiliation.
+* If an account DOESN’T exist, call admin / broker and skip to step # 4.
+* If an account exists, take note of the name and email address associated with the account.
+* Call admin and have them Forgot Password on ListHub.com and follow up when then get their ListHub login credentials.
+* Skip to step # 7.&#x20;
 
-**Step 4: Register A Broker ListHub Account.** Click Create Account on ListHub.com. 
+**Step 4: Register A Broker ListHub Account.** Click Create Account on ListHub.com.&#x20;
 
-**Step 5: Select the first option,” I am the head broker of record within the MLS.”**  
+**Step 5: Select the first option,” I am the head broker of record within the MLS.”** &#x20;
 
- **![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/89612ed5-a1b6-4c52-80fb-41e56229f228.png)**
+&#x20;![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/89612ed5-a1b6-4c52-80fb-41e56229f228.png)
 
-**Step 6: Broker Registration:** Admin/Broker will fill out the form. They will need the following: 
+**Step 6: Broker Registration:** Admin/Broker will fill out the form. They will need the following:&#x20;
 
-*   Broker Contact Information.
-*   Brokerage Contact Information.
-*   Number of Agents, Offices and Office Codes.
-*   Create Username and Password.
-*   Complete Registration
-*   Please link for registration page: [https://app.listhub.com/accounts/registerbroker.action](https://app.listhub.com/accounts/registerbroker.action) 
+* Broker Contact Information.
+* Brokerage Contact Information.
+* Number of Agents, Offices and Office Codes.
+* Create Username and Password.
+* Complete Registration
+* Please link for registration page: [https://app.listhub.com/accounts/registerbroker.action](https://app.listhub.com/accounts/registerbroker.action)&#x20;
 
-**Step 7: Select Publisher on the next screen.** Follow Instructions Below:  
+**Step 7: Select Publisher on the next screen.** Follow Instructions Below: &#x20;
 
-(A) Click over Publisher Choices. 
+(A) Click over Publisher Choices.&#x20;
 
-(B) Search for FindAPlace4Me. 
+(B) Search for FindAPlace4Me.&#x20;
 
-(C) Add Selected and Save.  
+(C) Add Selected and Save. &#x20;
 
-(D) Please click [HERE](https://www.youtube.com/watch?v=whN3s6Up-Dk) for a video tutorial. 
+(D) Please click [HERE](https://www.youtube.com/watch?v=whN3s6Up-Dk) for a video tutorial.&#x20;
 
-**\*Sometimes\*** , Certain MLSs are supported by ListHub but they need to register an Affiliate code before you can add them as a publisher.  
+**\*Sometimes\*** , Certain MLSs are supported by ListHub but they need to register an Affiliate code before you can add them as a publisher. &#x20;
 
-*   Please click [HERE](https://www.youtube.com/watch?v=HCHeV5prcXA&t=22s) for Affiliate instructions.
-*   PARADYM is our Affiliate code.
-*   Be sure your add FindAPlace4Me after you register the Affiliate code. 
+* Please click [HERE](https://www.youtube.com/watch?v=HCHeV5prcXA\&t=22s) for Affiliate instructions.
+* PARADYM is our Affiliate code.
+* Be sure your add FindAPlace4Me after you register the Affiliate code.&#x20;
 
-**Step 8: Configuration:** Takes Up To 5-7 business days until the account is fully set up.  
+**Step 8: Configuration:** Takes Up To 5-7 business days until the account is fully set up. &#x20;
 
-**Step 9: Check The Back Office After Configuration.** Follow Instructions below: 
+**Step 9: Check The Back Office After Configuration.** Follow Instructions below:&#x20;
 
-(A) Log into your back office by heading over to Paradym.com and logging into your account. 
+(A) Log into your back office by heading over to Paradym.com and logging into your account.&#x20;
 
-(B) Click your name and select, “Back Office.” 
+(B) Click your name and select, “Back Office.”&#x20;
 
-(C) Enter Account number into Account # field and click,”Lookup ListHub Offices.” 
+(C) Enter Account number into Account # field and click,”Lookup ListHub Offices.”&#x20;
 
-(D) Look up by MLS number or Brokerage name.  
+(D) Look up by MLS number or Brokerage name. &#x20;
 
-(E) Next steps are to add to account and follow up with broker/ admin.  
+(E) Next steps are to add to account and follow up with broker/ admin. &#x20;
 
 FINISHED

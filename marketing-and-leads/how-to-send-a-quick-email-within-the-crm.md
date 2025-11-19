@@ -1,4 +1,3 @@
-
 # How to Send a Quick Email Within the CRM
 
 **CRM Quick Email** allows you to send email messages without having to exit the CRM system.
@@ -13,7 +12,7 @@ Click on the **Quick Email** option.
 
 To send an email to recipients not in your contacts, enter the address(es) of the email recipient(s) in the To … field.
 
-Check **Send myself BCC** to receive a copy of the email. Check **Display logo and my photo …** to display your logo and photo in the email.
+Check **Send myself BCC** to receive a copy of the email. Check **Display logo and my photo …** to display your logo and photo in the email.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/fe554b38-0048-4fee-ba0a-97388c02b838)
 
@@ -25,7 +24,7 @@ Click Preview to view how the email will look to the recipient(s). Click Save Em
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/24691fd0-ee6f-4d28-a64d-d9f225a68d27)
 
-If you have questions about this or any aspect of our Nestfully product, contact [support@nestfully.com](mailto:support@nestfully.com). 
+If you have questions about this or any aspect of our Nestfully product, contact [support@nestfully.com](mailto:support@nestfully.com).&#x20;
 
 Was this article helpful to you?
 

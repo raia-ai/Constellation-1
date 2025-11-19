@@ -1,11 +1,10 @@
-
 # REALedger - Bulk Update Defaults for Agent Pre-Split and Post-Split Deduction Codes
 
-The purpose of this article is to provide instructions for making global updates to agent's pre-split and post-split deductions.  
+The purpose of this article is to provide instructions for making global updates to agent's pre-split and post-split deductions. &#x20;
 
-You can change the pre-split and post-split deduction amounts globally, by navigating to System>>Maintenance>>Bulk Update Defaults in Agent and Pending Files. 
+You can change the pre-split and post-split deduction amounts globally, by navigating to System>>Maintenance>>Bulk Update Defaults in Agent and Pending Files.&#x20;
 
-In the screenshots below all agent's in office 01, need to have pre-split deduction code Default PCT Amount changed to .15% and the pre-split value in all pending sales needs to be updated to reflect the new percentage. 
+In the screenshots below all agent's in office 01, need to have pre-split deduction code Default PCT Amount changed to .15% and the pre-split value in all pending sales needs to be updated to reflect the new percentage.&#x20;
 
 First navigate to the Agents tab to select the office you would like to make changes for:
 
@@ -13,14 +12,14 @@ First navigate to the Agents tab to select the office you would like to make cha
 
 Then navigate back to the Item to Update tab.
 
-*   Select the Pre-split Deduction from the dropdown
-*   Edit the Default PCT Amount and check the box below 
-*   Check the Recalculate Pendings? checkbox
-*   Click the Update Pre-Split button
+* Select the Pre-split Deduction from the dropdown
+* Edit the Default PCT Amount and check the box below&#x20;
+* Check the Recalculate Pendings? checkbox
+* Click the Update Pre-Split button
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/29f8379f-3667-4c37-b190-9b7d05d7dcf1.png)
 
-Additional instructions attached. 
+Additional instructions attached.&#x20;
 
 Was this article helpful to you?
 

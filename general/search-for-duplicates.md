@@ -1,9 +1,8 @@
-
 # Search for Duplicates | Constellation1 Customer Hub
 
 **Search for Duplicates**
 
- In the Clients section, press “Add” and select either “Quick Outgoing” or “Quick Incoming”:
+&#x20;In the Clients section, press “Add” and select either “Quick Outgoing” or “Quick Incoming”:
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/e60a798c-0d82-4488-b106-fab554fda7bf)
 

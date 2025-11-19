@@ -1,11 +1,10 @@
-
 # Widget Token Generator | Constellation1 Customer Hub
 
 **Using the Widget Token Generator to place a token in a web page**
 
-The Widget Token Generator (WTG) is a tool to quickly set up and get the token for a widget that you’d like to place on your website. The WTG is available on the content edit page for most content pages and it’s simple to use.  In this example we will call up the WTG while editing the homepage. To activate the Content Designer, click the “+” link:
+The Widget Token Generator (WTG) is a tool to quickly set up and get the token for a widget that you’d like to place on your website. The WTG is available on the content edit page for most content pages and it’s simple to use.  In this example we will call up the WTG while editing the homepage. To activate the Content Designer, click the “+” link:
 
-![](https://support.realestatedigital.com/hc/en-us/article_attachments/201869735/5.jpg)![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/18408509-1894-4882-ba2f-7c523a18c668.png)
+![](https://support.realestatedigital.com/hc/en-us/article_attachments/201869735/5.jpg) ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/18408509-1894-4882-ba2f-7c523a18c668.png)
 
 From the drop down, select the widget that you want to use and click “Get Token…”.
 

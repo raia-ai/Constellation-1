@@ -1,4 +1,3 @@
-
 # Paradym: Reconnecting YouTube to Paradym
 
 **RECONNECTING YOUTUBE TO PARADYM**
@@ -11,11 +10,11 @@ Step 2: On the Settings page, look to the left and downward for a link called Co
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/18562525)
 
-Step 3: Click on the gear-shaped icon to the right of YouTube.  Notice the ! symbol over it.
+Step 3: Click on the gear-shaped icon to the right of YouTube.  Notice the ! symbol over it.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/18562526)
 
-Step 4: Click the word Reconnect on the left side of the screen.  Notice the text below that reads, “Your access token has expired.  Please reconnect.”
+Step 4: Click the word Reconnect on the left side of the screen.  Notice the text below that reads, “Your access token has expired.  Please reconnect.”
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/18562527)
 

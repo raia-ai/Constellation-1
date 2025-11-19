@@ -1,7 +1,6 @@
-
 # Adding a Lease/Rental Transaction | Constellation1 Customer Hub
 
-Below are the steps in order to enter a Lease/Rental Transaction.  Entry of a Lease or Rental transaction is VERY similar to entry of a regular transaction with a few slight differences.
+Below are the steps in order to enter a Lease/Rental Transaction.  Entry of a Lease or Rental transaction is VERY similar to entry of a regular transaction with a few slight differences.
 
 For reference purposes on entering transactions refer to the following links
 
@@ -21,9 +20,9 @@ When adding these contacts to your deal, ensure that when selecting the contacts
 
 **Please note:**
 
-When the Transaction Wizard is engaged, by default the system will add the contacts as a **Buyer** or **Seller**.  They can then be edited in the transaction to reflect **Tenant** or **Landlord** after the fact.
+When the Transaction Wizard is engaged, by default the system will add the contacts as a **Buyer** or **Seller**.  They can then be edited in the transaction to reflect **Tenant** or **Landlord** after the fact.
 
-In addition, if changing the contact type of Buyer or Seller, the system will only allow you to change it to a comparable type. ie. Buyer can **ONLY** be changed to Tenant or Seller can **ONLY** be changed to Landlord.  If you try to change one of these types to a NON-comparable type such as Miscellaneous, the system will throw an error similar to below
+In addition, if changing the contact type of Buyer or Seller, the system will only allow you to change it to a comparable type. ie. Buyer can **ONLY** be changed to Tenant or Seller can **ONLY** be changed to Landlord.  If you try to change one of these types to a NON-comparable type such as Miscellaneous, the system will throw an error similar to below
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/c3a3502e-0442-4d64-a7f6-4eba604a4193)
 

@@ -1,60 +1,57 @@
-
 # Constellation1 eSign January 2025 Release Notes
 
 Production Release: January 28, 2025
 
 ## Release Summary
 
-**Archived Signing Sessions:** Added ability to copy archived sessions.   
-**Signing Session Expiration:** Updated expiration time to UTC time.  
-**Managing Templates:** Added delete confirmation popup.  
-**Mobile View Usability:** Updated the zoom function on documents when creating a signing session.  
-**Signing Session User Interface:** Updated label from Done to Submit.  
+**Archived Signing Sessions:** Added ability to copy archived sessions. \
+**Signing Session Expiration:** Updated expiration time to UTC time.\
+**Managing Templates:** Added delete confirmation popup.\
+**Mobile View Usability:** Updated the zoom function on documents when creating a signing session.\
+**Signing Session User Interface:** Updated label from Done to Submit.\
 **Bug Fixes**
 
-## Release Details 
+## Release Details&#x20;
 
 Copy Archived Signing Sessions
 
-Users can now copy archived signing sessions, enhancing the overall usability. 
+Users can now copy archived signing sessions, enhancing the overall usability.&#x20;
 
-This feature enables signing session creators to efficiently recreate past signing sessions, with their associated documents and tags for an efficient process to create a signing session. Under the Action menu, Copy has been add to the menu options. 
+This feature enables signing session creators to efficiently recreate past signing sessions, with their associated documents and tags for an efficient process to create a signing session. Under the Action menu, Copy has been add to the menu options.&#x20;
 
-API users can also take advantage of this feature. 
+API users can also take advantage of this feature.&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2025/01%20January/2025-Jant-eSign-CopyArcived.png)
 
-Signing Session Expiration  
-To provide a consistent user experience, we have updated the expiration time for signing sessions. 
+Signing Session Expiration\
+To provide a consistent user experience, we have updated the expiration time for signing sessions.&#x20;
 
-When a session has an expiration date set, it will expire at 12:00 AM UTC (Coordinated Universal Time) on the selected date. 
+When a session has an expiration date set, it will expire at 12:00 AM UTC (Coordinated Universal Time) on the selected date.&#x20;
 
-Please note that UTC time is 5 hours ahead of Eastern Standard Time and 8 hours ahead of Pacific Standard Time. 
+Please note that UTC time is 5 hours ahead of Eastern Standard Time and 8 hours ahead of Pacific Standard Time.&#x20;
 
 The Session Status will display the expiration date and time converted to your local time zone.
 
- ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2025/01%20January/2025-Jant-eSign-ExprationTime.png)
+![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2025/01%20January/2025-Jant-eSign-ExprationTime.png)
 
-  
-Managing Templates  
+Managing Templates\
 We've added a secondary confirmation prompt when deleting documents from a template.
 
-Previously, when creating or editing a template, selecting "Delete" from the action menu next to a document would delete the document without requiring confirmation, leading to unintended document loss. 
+Previously, when creating or editing a template, selecting "Delete" from the action menu next to a document would delete the document without requiring confirmation, leading to unintended document loss.&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2025/01%20January/2025-Jant-eSign-TemplateDeleteDoc.png)
 
-Session Creation iOS Mobile View Document Zoom  
+Session Creation iOS Mobile View Document Zoom
 
-The eSign mobile view user experience now allows signing session creators using Apple iOS to zoom in and out on individual documents when creating a signing session.  
+The eSign mobile view user experience now allows signing session creators using Apple iOS to zoom in and out on individual documents when creating a signing session.
 
-This targeted zoom functionality improves usability by enabling the session creators to focus on specific content and precise placement of tags and markups within a document.  
+This targeted zoom functionality improves usability by enabling the session creators to focus on specific content and precise placement of tags and markups within a document.
 
-Zoom functionality for Android was updated in last months release. 
+Zoom functionality for Android was updated in last months release.&#x20;
 
-  
 Signing Session User Interface
 
-To enhance the signer's user experience, in the signing session, we have relabeled the "Done" button to "Submit" for a more intuitive interface. 
+To enhance the signer's user experience, in the signing session, we have relabeled the "Done" button to "Submit" for a more intuitive interface.&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2025/01%20January/2025-Jant-eSign-SubmitButton.png)
 
@@ -62,50 +59,48 @@ Bug Fixes
 
 1\. GPES-5163
 
-We fixed an issue with the billing section displaying unrelated invoices to some user accounts. 
+We fixed an issue with the billing section displaying unrelated invoices to some user accounts.&#x20;
 
-Previously, in a specific use case, the billing section displayed invoices that were unrelated to their account. 
+Previously, in a specific use case, the billing section displayed invoices that were unrelated to their account.&#x20;
 
-Now, this issue has been resolved. User accounts will only be able to see invoices related to their account and permissions. 
+Now, this issue has been resolved. User accounts will only be able to see invoices related to their account and permissions.&#x20;
 
-2\. GPES-5162 
+2\. GPES-5162&#x20;
 
-We have fixed an issue that prevented certain signer actions from being enabled. 
+We have fixed an issue that prevented certain signer actions from being enabled.&#x20;
 
 Previously, when enabling the "Allow Delegation," "Include Attachments," and "Document Review" options for a signer, in the signing session the "Allow Delegation" and "Include Attachments" settings were not enabled or available as options to the signer in the signing session.
 
-Now, this issue has been resolved. 
+Now, this issue has been resolved.&#x20;
 
-  
 3\. GPES-5157
 
-We have fixed an issue where the “Document Upload Required” setting was being toggled off after a signing session was sent. 
+We have fixed an issue where the “Document Upload Required” setting was being toggled off after a signing session was sent.&#x20;
 
-Previously, if a signer had the “Document Upload Required” option enabled, and the session creator then edited the signer's details, the “Document Upload Required” option would be toggled off. 
+Previously, if a signer had the “Document Upload Required” option enabled, and the session creator then edited the signer's details, the “Document Upload Required” option would be toggled off.&#x20;
 
 This issue has been resolved. When the Document Upload Required setting is enabled, it will remain enabled.
 
-  
- 4\. GPES-5123
+&#x20;4\. GPES-5123
 
 We fixed an issue with signer tags being removed from a signing session in some cases when applying a template.
 
-Previously, in a specific use case, applying a template to a signing session and adding other signer tags, then removing the template could inadvertently remove all signer tags from the document. 
+Previously, in a specific use case, applying a template to a signing session and adding other signer tags, then removing the template could inadvertently remove all signer tags from the document.&#x20;
 
-Now, this issue has been resolved. 
+Now, this issue has been resolved.&#x20;
 
 5\. GPES-5020
 
 We fixed an issue with duplicate contact records being created in a signing session.
 
-Previously, when a user edited or updated a contact's information after adding them to a signing session, the system would save the contact as a new, duplicate record instead of updating the existing record. 
+Previously, when a user edited or updated a contact's information after adding them to a signing session, the system would save the contact as a new, duplicate record instead of updating the existing record.&#x20;
 
-Now, this issue has been resolved. Updating a contact's information in a signing session will update the existing record without creating a new contact. 
+Now, this issue has been resolved. Updating a contact's information in a signing session will update the existing record without creating a new contact.&#x20;
 
 6\. GPES-5159
 
-We have fixed an issue with replacing a document during a signing session when creating a signing session using an android device.  
+We have fixed an issue with replacing a document during a signing session when creating a signing session using an android device. &#x20;
 
-Previously, when creating a signing session, uploading a document, navigating to step 2, then returning to step 1 to replace the document, the old document was not being replaced with the new document. 
+Previously, when creating a signing session, uploading a document, navigating to step 2, then returning to step 1 to replace the document, the old document was not being replaced with the new document.&#x20;
 
 Now, this issue has now been resolved. Users can replace a document in a signing session when using an Android device as expected.

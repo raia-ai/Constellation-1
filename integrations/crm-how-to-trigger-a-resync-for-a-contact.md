@@ -1,9 +1,8 @@
-
 # CRM - How To Trigger A Resync For A Contact
 
 At times, an agent may have a contact that they are unable to set up saved searches or properties for. This is because a contact must be a 'client' in CRM rDesk. A contact must be registered to become a client. If the registration button is missing, or the registration did not go through, then follow these steps to re-trigger the update which will solve the issue.
 
-Step 1) Log into fnistools (rW) 
+Step 1) Log into fnistools (rW)&#x20;
 
 Step 2) In the left nav: Customer / Client > Customer List
 

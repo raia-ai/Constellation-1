@@ -1,9 +1,8 @@
-
 # Accounting - GL Activity when AP Bill and AP Payment Cross Months
 
-The purpose of this article is to show how GL activity is affected when entering an AP bill with an invoice date in a different period than the payment date of the bill. 
+The purpose of this article is to show how GL activity is affected when entering an AP bill with an invoice date in a different period than the payment date of the bill.&#x20;
 
-The **Invoice Date** in **Bills** is what determines when the expense hits the GL.  So, if a bill has an **Invoice Date** in March and the **Date Paid** is in April, then that is okay, as long as the check is issued in April.  The example below, shows what happens in the GL, when entering and paying a bill.   
+The **Invoice Date** in **Bills** is what determines when the expense hits the GL.  So, if a bill has an **Invoice Date** in March and the **Date Paid** is in April, then that is okay, as long as the check is issued in April.  The example below, shows what happens in the GL, when entering and paying a bill.  &#x20;
 
 In the screenshot below, the bill has an Invoice date of 03/31/2023:
 
@@ -21,7 +20,7 @@ The screenshot below, shows the GL activity for payment record 456, a credit to 
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/19942729)
 
-So, regardless of what day the bill is paid, the expense remains in March.  
+So, regardless of what day the bill is paid, the expense remains in March. &#x20;
 
 Was this article helpful to you?
 

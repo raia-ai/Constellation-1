@@ -1,4 +1,3 @@
-
 # Accounting - SMTP Email Settings Configuration
 
 This article will guide you to set up Constellation1 Accounting's email settings to allow for commission statements to be emailed directly from the program instead of printing physical copies or saving statements to PDF to be emailed manually. Please follow the steps below:
@@ -11,15 +10,15 @@ This article will guide you to set up Constellation1 Accounting's email settings
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/674bdc7e-c149-4be7-9d18-aedd45cb762f)
 
-3\. Enter the applicable **E-mail From** address that will be used 
+3\. Enter the applicable **E-mail From** address that will be used&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/98d53b6e-e67a-41e5-bd54-5e62f30fa4eb)
 
 4\. Enter the matching password for the email address being used. **PLEASE NOTE**: If you are using multi-factor authentication with your email address, you may need to create an app password for this function to work correctly for you. For more instructions on how to create an app password, please review the following articles:
 
-**Microsoft**: [How to get and use app passwords - Microsoft Support](https://support.microsoft.com/en-us/account-billing/how-to-get-and-use-app-passwords-5896ed9b-4263-e681-128a-a6f2979a7944) 
+**Microsoft**: [How to get and use app passwords - Microsoft Support](https://support.microsoft.com/en-us/account-billing/how-to-get-and-use-app-passwords-5896ed9b-4263-e681-128a-a6f2979a7944)&#x20;
 
-**Google**: [Sign in with app passwords - Google Account Help](https://support.google.com/accounts/answer/185833?hl=en) 
+**Google**: [Sign in with app passwords - Google Account Help](https://support.google.com/accounts/answer/185833?hl=en)&#x20;
 
 5\. Under **SMTP Server URL** and **SMTP Server Port #**, enter the following details depending on the email service you are using:
 

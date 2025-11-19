@@ -1,9 +1,8 @@
-
 # Accounting - How to Find Program Build Date
 
-The purpose of this article is to show where to check for the program build of your Accounting program.  
+The purpose of this article is to show where to check for the program build of your Accounting program. &#x20;
 
-To locate the program build date, click on **File** in the upper-left-hand corner.  Then click on **About** to view the **Build Date** of the program.
+To locate the program build date, click on **File** in the upper-left-hand corner.  Then click on **About** to view the **Build Date** of the program.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/image/2472652/0fca1423-5b11-41c2-9e18-545f3dfd3da2.png)
 

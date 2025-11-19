@@ -1,4 +1,3 @@
-
 # SPF record for Top Producer 8i CRM
 
 **SPF record for Top Producer 8i CRM**
@@ -17,17 +16,17 @@ This Standard Top Producer SPF record will only allow for the sending of email f
 
 This SPF record will allow for the sending of email for the domain through the Top Producer mail servers and other email servers used for sending email. Below are some popular mail servers that we were able to obtain, to the best of our knowledge, their respective current SPF record information plus the Top Producer mail servers.
 
-For GoDaddy:  
-v=spf1 MX include:secureserver.net include:\_spf.topproducer.com -all  
- 
+For GoDaddy:\
+v=spf1 MX include:secureserver.net include:\_spf.topproducer.com -all\
+&#x20;
 
-For Google:  
-v=spf1 MX include:\_spf.google.com include:\_spf.topproducer.com -all  
- 
+For Google:\
+v=spf1 MX include:\_spf.google.com include:\_spf.topproducer.com -all\
+&#x20;
 
-For Microsoft / Office365 / Outlook:  
-v=spf1 include:spf.protection.outlook.com include:\_spf.topproducer.com -all  
- 
+For Microsoft / Office365 / Outlook:\
+v=spf1 include:spf.protection.outlook.com include:\_spf.topproducer.com -all\
+&#x20;
 
 **Note:** This is only for Top Producer 8i. You should not do this if your only sending through a connected email in Top Producer X.
 

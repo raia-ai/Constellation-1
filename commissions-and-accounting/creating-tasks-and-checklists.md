@@ -1,7 +1,6 @@
-
 # Creating Tasks and Checklists | Constellation1 Customer Hub
 
-This article will provide you with information regarding creating Tasks and Checklists within Commissions Online. 
+This article will provide you with information regarding creating Tasks and Checklists within Commissions Online.&#x20;
 
 For further information on Managing Tasks and Checklists, see the following.
 
@@ -17,13 +16,13 @@ From the main menu, navigate to System Settings/Checklists, select the Tasks tab
 
 At this point, add:
 
-*   **Task Name.**
-*   **Task Type,** i.e. Sales Documentation, General Task, etc.
-*   Toggle on **Required** if the transaction can NOT be closed until it is completed.
-*   Assign a **Task Due Date.**
-*   Add any **Notes** you wish to the Task.
-*   If desired, toggle on **Enable Notification** and complete the **Notification Recipient** as applicable and should you wish to **Include Primary Transaction Agent**, toggle it on.
-*   Assign a Reminder to the Task by selecting **Add Reminde**r and enter the appropriate criteria and select **Save.**
+* **Task Name.**
+* **Task Type,** i.e. Sales Documentation, General Task, etc.
+* Toggle on **Required** if the transaction can NOT be closed until it is completed.
+* Assign a **Task Due Date.**
+* Add any **Notes** you wish to the Task.
+* If desired, toggle on **Enable Notification** and complete the **Notification Recipient** as applicable and should you wish to **Include Primary Transaction Agent**, toggle it on.
+* Assign a Reminder to the Task by selecting **Add Reminde**r and enter the appropriate criteria and select **Save.**
 
 Individual Tasks can be assigned to transactions one at a time. To automate the process, you can create and assign a **Checklist** to a transaction.
 

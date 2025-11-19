@@ -1,9 +1,8 @@
-
 # FiveStreet: Receiving Leads from Zillow
 
-Follow these instructions to point your Zillow leads to your @fivestreet.me forwarding address. 
+Follow these instructions to point your Zillow leads to your @fivestreet.me forwarding address.&#x20;
 
-1\. Visit the Leads Sources tab of your FiveStreet account and make note of your @fivestreet.me forwarding address 
+1\. Visit the Leads Sources tab of your FiveStreet account and make note of your @fivestreet.me forwarding address&#x20;
 
 2\. Log into Zillow at [https://www.zillow.com](https://www.zillow.com/).
 

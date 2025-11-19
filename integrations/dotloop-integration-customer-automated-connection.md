@@ -1,9 +1,8 @@
-
 # Dotloop Integration-Customer Automated Connection | Constellation1 Customer Hub
 
 The purpose of this article is to provide the steps to configure Dotloop Integration within Constellation1 Commissions.
 
-From the left navigation bar select **System Settings / Integrations** and on the Transaction Management card select **Dotloop** 
+From the left navigation bar select **System Settings / Integrations** and on the Transaction Management card select **Dotloop**&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/1832e902-b67f-4c5e-b71f-aa5276253991)
 

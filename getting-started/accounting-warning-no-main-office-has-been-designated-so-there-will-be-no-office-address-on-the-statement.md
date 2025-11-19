@@ -1,21 +1,20 @@
+# Accounting - Warning: No main office has been designated so there will be no office address on the s
 
-# Accounting - Warning: No main office has been designated so there will be no office address on the statement.
-
-The purpose of this article is to show how to designate one of your offices as your main office.  
+The purpose of this article is to show how to designate one of your offices as your main office. &#x20;
 
 If you have not designated one of your offices as your main office, you will receive the following message, when you navigate to **Agents>>Reports>>Charge Statements**.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/19049440)
 
-When you receive this message, close the **Charge Statements** tab, then navigate to **System>>Setup>>Offices** and select your main office from the left selection pane. 
+When you receive this message, close the **Charge Statements** tab, then navigate to **System>>Setup>>Offices** and select your main office from the left selection pane.&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/19048680)
 
-Click **Edit**, then select **MainOffice** from the **Office Type** dropdown and **Save**.  
+Click **Edit**, then select **MainOffice** from the **Office Type** dropdown and **Save**. &#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/19048681)
 
-After a main office has been selected, when you navigate back to **Agents>>Reports>>Charge** **Statements**, you will no longer receive the warning message, and you will see the main office address appear in the header of the agent's charge statement.
+After a main office has been selected, when you navigate back to **Agents>>Reports>>Charge** **Statements**, you will no longer receive the warning message, and you will see the main office address appear in the header of the agent's charge statement.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/19049441)
 

@@ -1,4 +1,3 @@
-
 # Adding a Referral to a transaction
 
 This article will serve as a reference for when adding and paying out a referral on a transaction.
@@ -15,15 +14,15 @@ As usual, search on the referral's name and select from the list if they appear,
 
 **Please note**: if you have tax enabled in your program, the applicable tax will NOT be applied to the referral unless the appropriate tax number is entered in their contact file
 
-If referral amount is a percentage enter the percentage in the adjacent field. 
+If referral amount is a percentage enter the percentage in the adjacent field.&#x20;
 
-If it is a flat amount,  click on the percentage button to change to a dollar sign and enter the dollar amount accordingly
+If it is a flat amount,  click on the percentage button to change to a dollar sign and enter the dollar amount accordingly
 
 To **delete** the referral, select the ellipsis on the far right of the referral and select **Delete**
 
 To **configure** the referral, select the ellipsis on the far right of the referral and select **Advanced Options**
 
-*   Options such as selecting the Referring Franchise if appropriate, including Unshared and Share Non-Commission Income, the Calculation Basis and whether it is exempt from Franchise Fee may be selected and then select **Save**
+* Options such as selecting the Referring Franchise if appropriate, including Unshared and Share Non-Commission Income, the Calculation Basis and whether it is exempt from Franchise Fee may be selected and then select **Save**
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/e474b494-5b26-41a0-94d8-b845cb4c2c67)
 

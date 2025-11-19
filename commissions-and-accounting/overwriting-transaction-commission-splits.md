@@ -1,13 +1,12 @@
-
 # Overwriting Transaction/ Commission splits | Constellation1 Customer Hub
 
-**Overriding Transaction Commission Splits/Amounts**  
+**Overriding Transaction Commission Splits/Amounts** &#x20;
 
 There may be times when a transaction is being split differently then the agent’s usual commission split, here are the steps to take.
 
 **Click the edit icon to the right of the agent’s split summary.**
 
-*   **To Override Commission Plan**
+* **To Override Commission Plan**
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/3c10618b-5a84-481b-873e-4588aa846561)
 
@@ -17,13 +16,13 @@ Once the agent detail window is open, you can either override the commission pla
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/5f2d9345-9fac-49f2-95d3-357ac4e6a764)
 
-*   **Flat amount, or other percentages**
+* **Flat amount, or other percentages**
 
 Override the Adjusted Agent portion, or Adjusted Broker portion as you will see they are in blue. If the Shared or Unshared income is to be different this is where you would make that adjustment.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/afee3fa6-72af-422c-85a6-9ee1aae79d7f)
 
-*   **Multiple agents on an End**
+* **Multiple agents on an End**
 
 It’s important to note that you only need to overwrite the secondary agent first and the primary agent’s calculation will then occur.
 

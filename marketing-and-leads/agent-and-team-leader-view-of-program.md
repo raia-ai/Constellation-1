@@ -1,19 +1,18 @@
-
 # Agent and Team Leader View of Program
 
 Constellation1 Commissions provides the ability for agents to sign into the program to view their own specific activity as an agent or team leader if applicable.
 
-**Note:** On Agent Landing page, it is possible to filter your agents by Office or status of Active/Inactive/All.  When there are no filters set the filter button will display in black.  When there is a filter engaged, the filter button will display in Blue.
+**Note:** On Agent Landing page, it is possible to filter your agents by Office or status of Active/Inactive/All.  When there are no filters set the filter button will display in black.  When there is a filter engaged, the filter button will display in Blue.
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/1b729de0-4a41-4934-95bc-5bead3fce58d)
 
 **Please note:**
 
-For those instances where an agent is also a Team Leader, depending on what permissions are granted as a Team Leader below, they will have two different views of the program. 
+For those instances where an agent is also a Team Leader, depending on what permissions are granted as a Team Leader below, they will have two different views of the program.&#x20;
 
 To toggle between these two views, from the User Profile icon in the upper right hand corner of the screen ,click on the icon ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/f9dbd50e-245a-48af-ac11-4cb79d156412) and select the desired view from the drop down.
 
-Please refer to [Viewing and Editing Team Leader Permissions](https://constellation1.na3.teamsupport.com/knowledgeBase/21841766) for further information on setting up Team Leader Permissions
+Please refer to [Viewing and Editing Team Leader Permissions](https://constellation1.na3.teamsupport.com/knowledgeBase/21841766) for further information on setting up Team Leader Permissions
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/e6b7a035-1708-45a3-98cf-a3d5102ca9e8)
 
@@ -25,11 +24,11 @@ In order to invite the agent to access the program, select the agent you wish to
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/cf46d50b-a0a3-4a81-95e7-c49ddfcb4544)
 
-The system will then display a confirmation asking if you wish to send the invite, and then select Invite.  An invitation will then be sent via email to the agent using the email attached to their agent profile with sign in credentials for them to access the program.
+The system will then display a confirmation asking if you wish to send the invite, and then select Invite.  An invitation will then be sent via email to the agent using the email attached to their agent profile with sign in credentials for them to access the program.
 
 **Agent View**
 
-By default, agents will only be able to see any Listings, Transactions, and Contacts they are associated with. 
+By default, agents will only be able to see any Listings, Transactions, and Contacts they are associated with.&#x20;
 
 For instance if an agent is sharing a side of a transaction with another agent, they will only be able to see THEIR portion of the transaction.
 
@@ -47,7 +46,7 @@ Will display the top three boxes in blue to allow for further filtering of the a
 
 By selecting the drop down beside Pending the agent can swap views between Pending transactions and Listings they are associated with (if your office tracks Listings) and change the view of information to Month to date, Quarter to date, Year to date and all.
 
-It also displays key figures such as Average Price, Sales Volume and Gross Commission based on the same criteria. 
+It also displays key figures such as Average Price, Sales Volume and Gross Commission based on the same criteria.&#x20;
 
 Click on the "number" in the center of this card, the system will navigate out and generate a list of the appropriate listings/transactions that meet the criteria.
 
@@ -79,11 +78,11 @@ Should your office track Listings, any listings the agent is attached to will di
 
 **Transactions**
 
-Any transactions the agent is attached to will display under Transactions.  They can be searched via the Search feature or further filtered by clicking on the drop-down list beside All, and the view can be changed to Pending, Closed, Cancelled or remain as All.
+Any transactions the agent is attached to will display under Transactions.  They can be searched via the Search feature or further filtered by clicking on the drop-down list beside All, and the view can be changed to Pending, Closed, Cancelled or remain as All.
 
 By selecting the ellipsis beside an individual transaction, further actions for that transaction can be taken based on the permissions granted to the Agent View.
 
-**Please note:** Agents/Team Leaders will **NOT** be able to edit Deposit details on any of their transactions or items on the Franchise Card should your office be a Franchise
+**Please note:** Agents/Team Leaders will **NOT** be able to edit Deposit details on any of their transactions or items on the Franchise Card should your office be a Franchise
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/f1fa4f73-8b42-49da-a3d4-bd1778acc02f)
 
@@ -107,13 +106,13 @@ Agents can edit any non-greyed out information by selecting Edit, making their c
 
 In addition to their personal information, this tab will highlight:
 
-*   Commission Plan assigned to them including details on how the plan is established.
-*   Commission Summary of period to date as well as previous year if applicable.
-*   Documents that agent or users can or have uploaded to the agent profile can have the notes attached to them edited, the files deleted, marked as Private or downloaded.
+* Commission Plan assigned to them including details on how the plan is established.
+* Commission Summary of period to date as well as previous year if applicable.
+* Documents that agent or users can or have uploaded to the agent profile can have the notes attached to them edited, the files deleted, marked as Private or downloaded.
 
 **Reports**
 
-Agents are able to generate their own reports, whether pre-formatted "out of the box" reports on the Reports tab or any Custom Reports established in the program, based on permissions granted in the Agent View.  Any reports they have been granted access to will display similar to below.  
+Agents are able to generate their own reports, whether pre-formatted "out of the box" reports on the Reports tab or any Custom Reports established in the program, based on permissions granted in the Agent View.  Any reports they have been granted access to will display similar to below. &#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/13209a8b-50c6-475a-b060-7b41b118bc6c)
 

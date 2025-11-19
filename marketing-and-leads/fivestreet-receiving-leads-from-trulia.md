@@ -1,11 +1,10 @@
-
 # FiveStreet: Receiving Leads from Trulia
 
 **FiveStreet: Forwarding Leads from Trulia**
 
-Follow these instructions to point your Trulia leads to your @fivestreet.me forwarding address. 
+Follow these instructions to point your Trulia leads to your @fivestreet.me forwarding address.&#x20;
 
-1\. Visit the Leads Sources tab of your FiveStreet account and make note of your @fivestreet.me forwarding address 
+1\. Visit the Leads Sources tab of your FiveStreet account and make note of your @fivestreet.me forwarding address&#x20;
 
 2\. Go to [www.trulia.com](https://app.na3.teamsupport.com/www.trulia.com) and sign in to your account
 

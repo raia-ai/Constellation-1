@@ -1,7 +1,6 @@
-
 # RE/MAX® (Corporate Owned Region) Franchise Configuration and Reporting
 
-This article details the steps required to configure the company, offices, agents, teams and transactions for submission to RE/MAX®. 
+This article details the steps required to configure the company, offices, agents, teams and transactions for submission to RE/MAX®.&#x20;
 
 **Company**
 
@@ -11,7 +10,7 @@ On the left navigation bar select **System Settings / Company**; ensure the Fran
 
 **Offices**
 
-On the left navigation bar select **Offices**; enter the applicable Office Franchise ID and Save.  This must be completed for each office. 
+On the left navigation bar select **Offices**; enter the applicable Office Franchise ID and Save.  This must be completed for each office.&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/1487a034-6289-4f6d-a70f-1f7aabfc4a78)
 
@@ -31,7 +30,7 @@ While still highlighted on Agents via the left navigation bar, select Teams tab 
 
 On the left navigation bar select **Transactions**.
 
-On the Details tab / Additional Details card, you must select the correct Transaction Group and Property Type from the drop downs and Save. You can customize the property types on the Field Settings card via [Advanced Settings](https://constellation1.na3.teamsupport.com/knowledgeBase/20368643) or [Advanced Settings ( Video)](https://constellation1.na3.teamsupport.com/knowledgeBase/22297060)
+On the Details tab / Additional Details card, you must select the correct Transaction Group and Property Type from the drop downs and Save. You can customize the property types on the Field Settings card via [Advanced Settings](https://constellation1.na3.teamsupport.com/knowledgeBase/20368643) or [Advanced Settings ( Video)](https://constellation1.na3.teamsupport.com/knowledgeBase/22297060)
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/17638108)
 
@@ -39,17 +38,17 @@ On the Details tab / Additional Details card, you must select the correct Transa
 
 On the left navigation bar select **Reports / Franchise Reporting** tab and expand the Mappings card; map both the Transaction Types and Property Types as required by RE/MAX® and Save.
 
-_**Please note: Transaction Types mapped to Property Management will not be included in the report as required by your franchise.**_ 
+_**Please note: Transaction Types mapped to Property Management will not be included in the report as required by your franchise.**_&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/03429356-9ef7-4acd-bc2a-dc5ad5f6f134)
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/e04e4cad-1b9e-4c33-9045-80fd52e67b5c)
 
-On the Transactions card select the criteria as needed for the Basis Date, Reporting Month, Transaction Type, Status, Offices, Report Commission Type and Award Allocations. 
+On the Transactions card select the criteria as needed for the Basis Date, Reporting Month, Transaction Type, Status, Offices, Report Commission Type and Award Allocations.&#x20;
 
 Place check to the left of each transaction to include, then Export.
 
-You have the option to Export as Spreadsheet (MS Excel) or PDF. The PDF version will provide users with user friendly version of the Spreadsheet. 
+You have the option to Export as Spreadsheet (MS Excel) or PDF. The PDF version will provide users with user friendly version of the Spreadsheet.&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/32162c93-f9cd-4ed9-b49e-0ac6731bed36)
 

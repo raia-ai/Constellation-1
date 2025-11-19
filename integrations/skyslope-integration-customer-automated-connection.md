@@ -1,9 +1,8 @@
-
 # SkySlope® Integration - Customer Automated Connection
 
 The purpose of this article is to provide the steps to configure SkySlope® Integration within Commissions Online.
 
-Before proceeding, log into SkySlope® with your master account credentials. 
+Before proceeding, log into SkySlope® with your master account credentials.&#x20;
 
 In SkySlope®, click on My Account under the SkySlope® menu icon.
 
@@ -17,7 +16,7 @@ Click the Generate New Key button. An Access Key and a Secret Key will be create
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/8a29feda-a4c3-4167-bbb4-9e0584ad348f)
 
-You can download your new keys by clicking the Download Key & Secret button. **This is the only opportunity you will have to see the Secret Key.**
+You can download your new keys by clicking the Download Key & Secret button. **This is the only opportunity you will have to see the Secret Key.**
 
 Click the Close button to return to the Access Key list. The new Access Key will now display in the list.
 
@@ -31,7 +30,7 @@ Copy/paste the Access Key and Secret, then select Connect button.
 
 You will then be presented with a confirmation window, which includes an approximate timeline for the sync to initiate between the two applications.
 
-Select Finish button. 
+Select Finish button.&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/f8088887-6849-4b86-9f0d-45d6ebda815d)
 

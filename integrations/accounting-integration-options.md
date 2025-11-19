@@ -1,4 +1,3 @@
-
 # Accounting Integration Options | Constellation1 Customer Hub
 
 One of the great features of Commissions Online is its ability to integrate with a variety of Accounting systems, ie. QuickBooks® Online or Desktop, and Xero
@@ -31,7 +30,7 @@ When closing a transaction, you will only have the option of **Close Only** as s
 
 Deposits/Disbursements
 
-When saving a Deposit or Disbursement on a Transaction, ensure that "Sync to Accounting system" is toggled **ON** and select **Save and Post** 
+When saving a Deposit or Disbursement on a Transaction, ensure that "Sync to Accounting system" is toggled **ON** and select **Save and Post**&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/d3f3ba8b-bb6a-42df-a950-8813c4aa95f1)
 

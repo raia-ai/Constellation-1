@@ -1,4 +1,3 @@
-
 # How to Edit an Existing Action Plan
 
 To view an existing Action Plan, click on the link of the title of the Action Plan.
@@ -15,7 +14,7 @@ Click **Save** OR click the **Preview** (![](https://constellation1.na3.teamsupp
 
 You can also click **Print** to a copy of your all activities in your Action Plan.
 
-If you run into issues with any of these features, please contact our Support Team at [support@nestfully.com](mailto:support@nestfully.com). 
+If you run into issues with any of these features, please contact our Support Team at [support@nestfully.com](mailto:support@nestfully.com).&#x20;
 
 Was this article helpful to you?
 

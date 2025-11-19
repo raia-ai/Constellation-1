@@ -1,4 +1,3 @@
-
 # Constellation1 Website & CRM October 2021 Release Notes
 
 Production Release: October 19, 2021
@@ -15,7 +14,7 @@ Production Release: October 19, 2021
 
 **Mobile CRM Address Types:** Updated mailing address types in the CRM mobile app.
 
-**Dashboard:** Reminder of the new CRM dashboard rollout.  
+**Dashboard:** Reminder of the new CRM dashboard rollout.
 
 #### **Bug fixes**
 
@@ -27,13 +26,13 @@ Production Release: October 19, 2021
 
 Contact Groups
 
-We’re always listening and welcome your feedback. At your request, we have improved the usability of the groups module. When viewing leads and clients in a group, you can now click on their name to go to the contact’s details page, making navigation much easier. 
+We’re always listening and welcome your feedback. At your request, we have improved the usability of the groups module. When viewing leads and clients in a group, you can now click on their name to go to the contact’s details page, making navigation much easier.&#x20;
 
 ![](https://docsstaging1.wpengine.com/wp-content/uploads/2021/10/Website-CRM-Groups4-300x103.jpg)
 
-**_Pro Tip:_** _Right click on the contact’s name to open their detail page in a new tab or window. This will allow you to work on your lead, then get back to the group quickly and easily._  
+_**Pro Tip:**_ _Right click on the contact’s name to open their detail page in a new tab or window. This will allow you to work on your lead, then get back to the group quickly and easily._ &#x20;
 
-Lead History Verbiage  
+Lead History Verbiage
 
 We have updated the message shown in the lead history to be friendlier and more descriptive.
 
@@ -41,8 +40,8 @@ Previously, when an agent declined a lead using the mobile CRM app, the message 
 
 We have updated this messaging to now read as:
 
-*   Lead was declined by assignee via CRM Mobile App.
-*   Lead was declined by assignee via CRM Website.
+* Lead was declined by assignee via CRM Mobile App.
+* Lead was declined by assignee via CRM Website.
 
 Improved Left Navigation
 
@@ -50,7 +49,7 @@ We have improved the functionality of the left navigation menu. By default, the 
 
 For a consistent user experience, the left navigation menu will remember your selection and display consistently as collapsed or expanded as you navigate around the CRM.''
 
- ![](https://docsstaging1.wpengine.com/wp-content/uploads/2021/10/CRM-2021-Oct-LeftNav1-39x300.png) ![](https://docsstaging1.wpengine.com/wp-content/uploads/2021/10/CRM-2021-Oct-LeftNav2-123x300.png)
+![](https://docsstaging1.wpengine.com/wp-content/uploads/2021/10/CRM-2021-Oct-LeftNav1-39x300.png) ![](https://docsstaging1.wpengine.com/wp-content/uploads/2021/10/CRM-2021-Oct-LeftNav2-123x300.png)
 
 CRM Mobile App - Address Types
 
@@ -58,16 +57,16 @@ We recently added new address types to the CRM. With this release, we have made 
 
 The following new address types are now available:
 
-*   Any
-*   Business
-*   Buy Property
-*   Home
-*   Home Value Report
-*   Mailing
-*   Market Trends
-*   Office
-*   Property
-*   Sell Property
+* Any
+* Business
+* Buy Property
+* Home
+* Home Value Report
+* Mailing
+* Market Trends
+* Office
+* Property
+* Sell Property
 
 CRM Dashboard
 

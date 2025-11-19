@@ -1,7 +1,6 @@
-
 # Employee BOI Files | Constellation1 Customer Hub
 
-Employees would be those who are Branch Admins or Staff. The Employee BOI file contains a few fields of information for these types of records. 
+Employees would be those who are Branch Admins or Staff. The Employee BOI file contains a few fields of information for these types of records.&#x20;
 
 Here are the current fields that come over in this type of file:
 

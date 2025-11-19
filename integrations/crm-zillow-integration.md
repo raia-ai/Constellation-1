@@ -1,4 +1,3 @@
-
 # CRM - Zillow Integration | Constellation1 Customer Hub
 
 **Introduction**
@@ -17,11 +16,11 @@ What information will RED need to request the broker configuration from Zillow?
 
 The broker configuration requires that a maintenance request be submitted to RED. We will need,
 
-*   Your brokerage name
-*   Your brokerage address
-*   A contact name and email
-*   You Broker Partner Identifier
-    *   Example: abcrealty-12345
+* Your brokerage name
+* Your brokerage address
+* A contact name and email
+* You Broker Partner Identifier
+  * Example: abcrealty-12345
 
 Once the configuration is complete, we will notify you to test (usually takes a few days).
 
@@ -39,7 +38,7 @@ Yes! A user guide has been drafted and will be available that details how the ag
 
 When will this be available?
 
-We are currently testing the agent configuration with one of our customers and Zillow will soon be setting up the broker configuration for the same customer so we can test that integration as well. 
+We are currently testing the agent configuration with one of our customers and Zillow will soon be setting up the broker configuration for the same customer so we can test that integration as well.&#x20;
 
 We are also in the midst of finalizing our agreement as a Zillow Technology Partner. Once this is done and the testing is complete, we will be able to offer this to all interested customers immediately since this does not have to be tied to a release.
 

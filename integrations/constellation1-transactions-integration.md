@@ -1,27 +1,26 @@
-
 # Constellation1 Transactions Integration | Constellation1 Customer Hub
 
 This article details the steps to configure and integrate Commissions Online with Constellation1 Transactions, including the fields that will be integrated.
 
-On the left navigation bar select **Transactions**, and at the top right of the window select the Import button. ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/34c4d2af-edda-427e-bd97-6300d94cf274) 
+On the left navigation bar select **Transactions**, and at the top right of the window select the Import button. ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/34c4d2af-edda-427e-bd97-6300d94cf274)
 
 In the **Transaction Office Mapping** section, ensure you correctly map each office as needed and select Save Mapping.
 
-**_Note: This only needs to be completed once unless you add more offices to your account._**
+_**Note: This only needs to be completed once unless you add more offices to your account.**_
 
-On the Import card, the **Last Import Date** will display at the top right and users must select at least one Transaction Status before selecting Retrieve button.
+On the Import card, the **Last Import Date** will display at the top right and users must select at least one Transaction Status before selecting Retrieve button.
 
-The **Back** button will return users to the Transactions landing page and the other buttons will be reviewed later in this article.  
+The **Back** button will return users to the Transactions landing page and the other buttons will be reviewed later in this article. &#x20;
 
 If you want to import a specific transaction, you must enter the Transaction Address (or combination of letters in the address) before selecting Retrieve button.
 
-Users can opt to import for a single Office, multiple Offices or all Offices. The default is all Offices. 
+Users can opt to import for a single Office, multiple Offices or all Offices. The default is all Offices.&#x20;
 
-**Please note: Active = Listings and there is no logic to filter out "Expired" listings. The Commissions Online application will import whatever transaction statuses are provided by Constellation1 Transactions. Cancelled statuses will automatically change the status of the transaction in Commissions Online from Pending to Cancelled.**   
+**Please note: Active = Listings and there is no logic to filter out "Expired" listings. The Commissions Online application will import whatever transaction statuses are provided by Constellation1 Transactions. Cancelled statuses will automatically change the status of the transaction in Commissions Online from Pending to Cancelled.**  &#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/f004d7d9-86c0-4570-b5f4-bf400a9eb3f6)
 
-**Run Commission Calculation on Import**, mouse over the Information icon to see more detail on its use before making your selection.  Once toggled on/off, the setting will remain unchanged the next time you import. 
+**Run Commission Calculation on Import**, mouse over the Information icon to see more detail on its use before making your selection.  Once toggled on/off, the setting will remain unchanged the next time you import.&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/a780a7f1-9a5e-47a6-9a05-56f374868df7)
 
@@ -33,24 +32,24 @@ Do Not Override will not override any transaction if selected.
 
 Transaction Data Only - Excluding Commission includes fields that are not directly tied to the commission calculation as indicated when you hover over the Information icon.
 
-**Once the drop down is selected and user imports a transaction, the option will remain until user changes it and imports again.**  
+**Once the drop down is selected and user imports a transaction, the option will remain until user changes it and imports again.** &#x20;
 
-The **Added / Edited From** and **To** will display the previously selected Added / Edited From date and To with today's date, that you last retrieved transactions to import.
+The **Added / Edited From** and **To** will display the previously selected Added / Edited From date and To with today's date, that you last retrieved transactions to import.
 
-**Note:** The check boxes are color-coded and translate as follows:   
-•    Blue – Not previously imported  
-•    Orange – Previously imported   
-•    Gray – Transaction with Cancelled status
+**Note:** The check boxes are color-coded and translate as follows: \
+•    Blue – Not previously imported\
+•    Orange – Previously imported \
+•    Gray – Transaction with Cancelled status
 
 You can sort the transactions available for import by Address, MLS Number, Close Date and Sale Price by clicking on the appropriate column header.
 
-The **Import Group Selection** drop down options:  
+The **Import Group Selection** drop down options: &#x20;
 
-**Select New Only** \- will place check marks beside ONLY your new transactions ready for import
+**Select New Only** - will place check marks beside ONLY your new transactions ready for import
 
-**Select All** \- will select ALL transactions in list
+**Select All** - will select ALL transactions in list
 
-**Deselect All** \- will deselect any selections made
+**Deselect All** - will deselect any selections made
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/5302508c-5598-4eca-a8a5-5b3172eb97af)
 
@@ -62,21 +61,21 @@ Commissions Online will import the selected transaction(s) and a pop-up screen w
 
 **Sync Automation button**
 
-Users have the option to schedule the transactions import. 
+Users have the option to schedule the transactions import.&#x20;
 
-Imports can be scheduled based on:  
-•    Frequency (Manual, Daily, Weekly)  
-•    Time of Sync   
-•    Day of Sync   
-•    Transaction Status 
+Imports can be scheduled based on:\
+•    Frequency (Manual, Daily, Weekly)\
+•    Time of Sync \
+•    Day of Sync \
+•    Transaction Status&#x20;
 
-Daily includes listings and transactions within the previous 24 hour period.  
-Weekly includes listings and transactions within the previous 7 days.  
+Daily includes listings and transactions within the previous 24 hour period.\
+Weekly includes listings and transactions within the previous 7 days.\
 Manual includes listings and transactions since the last sync date.
 
-_**Agents will only be included if their email in Constellation1 Transactions is the same as the email in Constellation1 Commissions Online.**_ 
+_**Agents will only be included if their email in Constellation1 Transactions is the same as the email in Constellation1 Commissions Online.**_&#x20;
 
-_**Constellation1 Transactions syncs to the data hub approximately every 30 minutes.**_ 
+_**Constellation1 Transactions syncs to the data hub approximately every 30 minutes.**_&#x20;
 
 Below are the data fields synched between the two applications:
 

@@ -1,11 +1,10 @@
-
 # Reversing a Trust/Escrow Deposit | Constellation1 Customer Hub
 
 This article provides the steps to reverse a Trust/Escrow Deposit that was entered incorrectly.
 
 Navigate to the Transaction / Details tab and expand the Deposits card, ensuring that the "Held by" field has your company selected.
 
-Select Actions = Reverse by clicking on the "ellipsis" to the far right of the applicable deposit that you need to reverse. The View option will only display if there is a comment and/or check/cheque number entered. 
+Select Actions = Reverse by clicking on the "ellipsis" to the far right of the applicable deposit that you need to reverse. The View option will only display if there is a comment and/or check/cheque number entered.&#x20;
 
 **Please note; you can only Reverse a deposit that displays an Integration Status of Posted, or you will receive the following warning.**
 
@@ -27,9 +26,9 @@ In QuickBooks®, the deposit will display as Voided with a $0.00 amount.
 
 If an incorrect reverse date was entered, it can be edited in Commissions Online by selecting **Edit** via the ellipsis in the **Actions** column to the far right of the Reverse entry.
 
-****_Please note, this will only change the date in Commissions Online. If changes are required to your Accounting application, you will need to manually edit that date too._**** 
+_**Please note, this will only change the date in Commissions Online. If changes are required to your Accounting application, you will need to manually edit that date too.**_&#x20;
 
-**_![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/5fc41a9e-5ad4-480f-a8dc-246113e6613c)_**
+![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/5fc41a9e-5ad4-480f-a8dc-246113e6613c)
 
 Was this article helpful to you?
 

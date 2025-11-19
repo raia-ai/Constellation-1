@@ -1,7 +1,6 @@
-
 # Top Producer 8i: Adding an Activity to an Action Plan
 
-Top Producer CRM includes a large selection of pre-made action plans that are specifically designed to meet a variety of needs. You may wish to make changes to these plans by adding new activities. Please note that it is necessary to create a personal copy of a plan in order to make changes, as default plans cannot be changed. 
+Top Producer CRM includes a large selection of pre-made action plans that are specifically designed to meet a variety of needs. You may wish to make changes to these plans by adding new activities. Please note that it is necessary to create a personal copy of a plan in order to make changes, as default plans cannot be changed.&#x20;
 
 To add an activity to an action plan, listing plan, or closing plan:
 
@@ -25,7 +24,6 @@ To add an activity to an action plan, listing plan, or closing plan:
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/8c8cd30e-b0c1-4a55-9d31-f5c82e2c0aae)
 
-  
 **\*Assigned to**: If part of a team or broker account, the other members of your team are available via this drop-down. In addition, you can also assign an action plan activity to whoever the lead/contact is assigned to (the Lead Info tab displays who the contact/lead is assigned to) by selecting Lead/Contact ‘Assigned to’ Agent.
 
 **\*Event Due**: Enter the number of days in the field provided and select one of the below options.
@@ -40,12 +38,12 @@ d. **Closing Plans** include the following options: after Acceptance Date, befor
 
 **Note:** Plan activities cannot be set for a specific date since the due dates for plan activities are calculated either by the date that the plan is applied (or Listing/Closing Dates) or the date when the preceding, dependant activity was marked complete.
 
-*   **Drop from Activities:** Indicate when you would like the activity dropped from your activity lists, regardless of whether or not you have completed it. These activities can still be searched for and displayed in your activity lists even after they have dropped off. Selecting Do not drop off ensures that the activity remains in Today’s Business until you mark it done.
-*   **Weekend Activities: Since the scheduled activity dates are dependent on when the plan is applied, you may want to apply these settings so that activities that fall on a weekend are scheduled before or after the weekend.**
+* **Drop from Activities:** Indicate when you would like the activity dropped from your activity lists, regardless of whether or not you have completed it. These activities can still be searched for and displayed in your activity lists even after they have dropped off. Selecting Do not drop off ensures that the activity remains in Today’s Business until you mark it done.
+* **Weekend Activities: Since the scheduled activity dates are dependent on when the plan is applied, you may want to apply these settings so that activities that fall on a weekend are scheduled before or after the weekend.**
 
 7\. If the activity you are defining requires a template (letters, labels, envelopes, postcards, or emails), the Template section will be visible once you select one of those types.
 
-![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/9fade6ee-628b-435e-8c6c-d670e29ac4c8)  
+![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/9fade6ee-628b-435e-8c6c-d670e29ac4c8)\
 a. You can preview any template by clicking the **Template** **Preview** link.
 
 b. You can edit a template by clicking the **Edit Template** link. If the template is a default template, you are prompted to create a personal copy after editing.

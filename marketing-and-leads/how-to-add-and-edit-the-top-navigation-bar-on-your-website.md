@@ -1,9 +1,8 @@
-
 # How to Add and Edit the Top Navigation Bar on Your Website
 
 Navigation refers to the Top Navigation on the website. Link new pages and jump searches to the top navigation.
 
-To add a top navigation to the website, click on the **Plus (+)** sign. 
+To add a top navigation to the website, click on the **Plus (+)** sign.&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/d224cae4-cf30-4915-9c20-e75390bf6ced)
 
@@ -27,7 +26,7 @@ Click **Publish** at the bottom to save. The top navigation can be moved to chan
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/8bc7c978-ef48-4877-bf8c-eac8f367a784)
 
-If you have any questions about these features, please contact us at [support@nestfully.com](mailto:support@nestfully.com). 
+If you have any questions about these features, please contact us at [support@nestfully.com](mailto:support@nestfully.com).&#x20;
 
 Was this article helpful to you?
 

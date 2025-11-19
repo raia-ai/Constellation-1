@@ -1,32 +1,30 @@
-
 # Constellation1 eSign January 2023 Release Notes
 
-Production Release: February 1 2023 
+Production Release: February 1 2023&#x20;
 
 ## RELEASE SUMMARY
 
-**eSign Mobile Responsiveness:** Documents now automatically fit device width on the Preview page.   
-**Document Review:** Signers can now review a document before starting a signing ceremony.   
+**eSign Mobile Responsiveness:** Documents now automatically fit device width on the Preview page. \
+**Document Review:** Signers can now review a document before starting a signing ceremony. \
 **Bug Fixes**
 
-## RELEASE DETAILS 
+## RELEASE DETAILS&#x20;
 
-eSign Mobile Responsiveness   
-We’ve improved usability when previewing signing sessions on eSign Mobile.   
-Now after creating a signing session and viewing the document on the Preview page, the document will be dynamically sized to fit the width of the user’s mobile device. This allows the user to easily view where the markups and tags are placed on the document without having to scroll up/down or left/right to see the document in full. 
+eSign Mobile Responsiveness \
+We’ve improved usability when previewing signing sessions on eSign Mobile. \
+Now after creating a signing session and viewing the document on the Preview page, the document will be dynamically sized to fit the width of the user’s mobile device. This allows the user to easily view where the markups and tags are placed on the document without having to scroll up/down or left/right to see the document in full.&#x20;
 
-Document Review   
-We’ve added Document Review to signing sessions. Now when a signer receives an invitation to sign a document, they can review the documents before starting the signing session.   
-Document Review is enabled for each signer as needed when creating a signing session. When adding recipients to a session, click the dots in the Action column next to the signer and select Edit. In the Add Recipient modal, toggle Document Review to YES. 
+Document Review \
+We’ve added Document Review to signing sessions. Now when a signer receives an invitation to sign a document, they can review the documents before starting the signing session. \
+Document Review is enabled for each signer as needed when creating a signing session. When adding recipients to a session, click the dots in the Action column next to the signer and select Edit. In the Add Recipient modal, toggle Document Review to YES.&#x20;
 
-  
- ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2023/01%20Jan%202023/2023-Jan-esign-DocReview1.png)
+![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2023/01%20Jan%202023/2023-Jan-esign-DocReview1.png)
 
-When the signer clicks the Review & Sign button in their invitation email, they will be presented with a welcome page with the document displayed in the preview window. After the signer scrolls to the bottom of the document, the Continue button will be enabled. 
+When the signer clicks the Review & Sign button in their invitation email, they will be presented with a welcome page with the document displayed in the preview window. After the signer scrolls to the bottom of the document, the Continue button will be enabled.&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2023/01%20Jan%202023/2023-Jan-esign-DocReview2a.png)
 
-The signer can then concent and click Continue to begin the signing session. 
+The signer can then concent and click Continue to begin the signing session.&#x20;
 
 ![](https://app.na3.teamsupport.com/Wiki/WikiDocs/2472652/images/KB-ReleaseNotes/eSign/2023/01%20Jan%202023/2023-Jan-esign-DocReview2b.png)
 
@@ -44,7 +42,7 @@ Now, this message will no longer display when uploading documents.
 
 We fixed an issue with time zone and date format settings not saving for newly created user accounts.
 
-Previously, when a new user account was created either manually or through the API, the time zone and date format settings were not saved. The user would then have to manually set their time zone and date format preferences before creating a signing session. Now, when a new user account is created, the system will save their time zone and date format settings. 
+Previously, when a new user account was created either manually or through the API, the time zone and date format settings were not saved. The user would then have to manually set their time zone and date format preferences before creating a signing session. Now, when a new user account is created, the system will save their time zone and date format settings.&#x20;
 
 3\. GPES-3523
 

@@ -1,7 +1,6 @@
-
 # FiveStreet: Turning Off Lead Forwarding
 
-If you would like to stop leads from flowing into FiveStreet from a particular source, follow these steps: 
+If you would like to stop leads from flowing into FiveStreet from a particular source, follow these steps:&#x20;
 
 1\. Go to the Lead Sources tab of your account.
 

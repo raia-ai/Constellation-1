@@ -1,4 +1,3 @@
-
 # Initial Setup Wizard | Constellation1 Customer Hub
 
 It is now possible for new Commissions Online clients to setup their new environment on their own using a "self-serve" feature referred to as the Initial Setup Wizard.
@@ -9,11 +8,11 @@ When you sign into your database with your initial sign in credentials supplied 
 
 Depending on how your environment is created, you could see screens similar to the following and have the following options when completing each step:
 
-*   **Exit** to exit out of the Initial Setup Wizard.
-*   **Save** to save your changes on that screen.
-*   **Previous** to take you to the previous setup step.
-*   **Next** to skip that setup screen and proceed to the next Setup step in the wizard.
-*   If **Return to List** appears, it will take you to the previous list in that particular screen.
+* **Exit** to exit out of the Initial Setup Wizard.
+* **Save** to save your changes on that screen.
+* **Previous** to take you to the previous setup step.
+* **Next** to skip that setup screen and proceed to the next Setup step in the wizard.
+* If **Return to List** appears, it will take you to the previous list in that particular screen.
 
 **Company Details**
 
@@ -25,7 +24,7 @@ For assistance with setting up your Company Profile, please see [Company Profile
 
 For assistance on adding/editing your offices please see [Office Maintenance.](https://constellation1.na3.teamsupport.com/knowledgeBase/16981872)
 
-To **Add** an office, select ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/a3c44221-6f90-4b42-bbc2-e7ba48c38cf9)and complete the required information and select **Save**.
+To **Add** an office, select ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/a3c44221-6f90-4b42-bbc2-e7ba48c38cf9)and complete the required information and select **Save**.
 
 To **View** or **Edit** an existing office, select the ellipsis to the right of the office and select **View** to view the existing office or **Edit** to make changes.
 
@@ -35,7 +34,7 @@ To **View** or **Edit** an existing office, select the ellipsis to the right of 
 
 For assistance on setting up Users, please see [Users Maintenance.](https://constellation1.na3.teamsupport.com/knowledgeBase/16510286)
 
-To **Add** a user, select **![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/a5083e44-b468-4760-a4e9-dc3561fc7e69)**and complete the required information and select Save.
+To **Add** a user, select \*\*![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/a5083e44-b468-4760-a4e9-dc3561fc7e69)\*\*and complete the required information and select Save.
 
 **Please note:** the system will NOT automatically send an invite to the added user. After adding and saving the User through the Initial Setup Wizard, you will need to navigate to the User Profile and select **Save/Save and Invite User**
 
@@ -47,17 +46,17 @@ To **View** or **Edit** an existing user, select the ellipsis to the right of th
 
 **Connecting Accounting System**
 
-This module will allow you to integrate your Commissions Online with your accounting system by selecting the appropriate accounting program ie. QuickBooks® or Xero. 
+This module will allow you to integrate your Commissions Online with your accounting system by selecting the appropriate accounting program ie. QuickBooks® or Xero.&#x20;
 
 By selecting the appropriate program, the system will then take you out to the appropriate supplier sign in screen to complete your integration.
 
-If No Accounting Integration is selected, the system will be setup with NO accounting integration whatsoever 
+If No Accounting Integration is selected, the system will be setup with NO accounting integration whatsoever&#x20;
 
 ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/61a59f35-43b8-491c-b4a2-4e0643cec318)
 
 **Conditions Setup**
 
-Should your office track conditions on transactions, they can be established here.  For further assistance on Conditions, see [Conditions Tracking.](https://constellation1.na3.teamsupport.com/knowledgeBase/20920341)
+Should your office track conditions on transactions, they can be established here.  For further assistance on Conditions, see [Conditions Tracking.](https://constellation1.na3.teamsupport.com/knowledgeBase/20920341)
 
 To **Add** a condition, select ![](https://constellation1.na3.teamsupport.com/api/attachments/action/1/dd7e4c1e-64c8-4193-ac5d-224c9fa4a750)and enter the condition name in the box and hit tab.
 
