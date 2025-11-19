@@ -1,0 +1,13 @@
+---
+title: Reconnecting Your YouTube Channel with Paradym
+---
+
+# Reconnecting Your YouTube Channel with Paradym
+
+Was this article helpful to you?
+
+#### Add/Edit a Rating
+
+Was this article helpful to you?
+
+My Comments:
