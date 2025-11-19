@@ -1,0 +1,15 @@
+---
+title: 5/1/2025 - Important Update Regarding the Yuma Association of REALTORS Data Feed
+---
+
+# 5/1/2025 - Important Update Regarding the Yuma Association of REALTORS Data Feed
+
+We’re reaching out to inform you of a recent change to the **Yuma Association of REALTORS** data feed that has already been implemented as part of a vendor system conversion.
+
+Please note that there has been no change to the OSN you are currently using.
+
+As part of this system conversion, several key values across the data feed have been updated — **including fields such as ListingKey, MemberKey, and OfficeKey. Agent and Office IDs have also changed** and we have attached detailed information outlining the changes.
+
+Was this article helpful to you?
+
+Was this article helpful to you?

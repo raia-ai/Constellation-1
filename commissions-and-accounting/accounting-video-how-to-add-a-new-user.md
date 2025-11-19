@@ -1,0 +1,13 @@
+---
+title: Accounting Video - How to add a new user.
+---
+
+# Accounting Video - How to add a new user.
+
+Was this article helpful to you?
+
+#### Add/Edit a Rating
+
+Was this article helpful to you?
+
+My Comments:
