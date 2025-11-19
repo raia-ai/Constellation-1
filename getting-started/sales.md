@@ -1,0 +1,40 @@
+---
+title: "Sales"
+source: "https://constellation1.na3.teamsupport.com/knowledgeBase/category/46156/subcategory/62486"
+tags: ["Getting Started"]
+version: "1.0"
+last_updated: "2025-11-18"
+short_description: "Sales | Constellation1 Customer Hub Dashboard  Knowledge Base  Constellation1 Accounting  Sales  Accounting - Referrals Paid by Escrow/Title Companies"
+long_description: "Sales | Constellation1 Customer Hub Dashboard  Knowledge Base  Constellation1 Accounting  Sales  Accounting - Referrals Paid by Escrow/Title Companies  Accounting - Correcting Incorrect Office/Agent Splits in Current Month  Accounting - Third-Party Pass-Through Money  Accounting - Returning Trust Money  Accounting - Filter Tabs for Sales Reports  Accounting - How to Reprint Agent Commission Statements  Accounting - Voiding an Agent Check on a Posted Sale  Accounting and REALedger - Voiding an Ag"
+---
+
+# Sales | Constellation1 Customer Hub
+
+1.  [Dashboard](https://constellation1.na3.teamsupport.com/dashboard)
+2.  [Knowledge Base](https://constellation1.na3.teamsupport.com/knowledgeBase)
+3.  [Constellation1 Accounting](https://constellation1.na3.teamsupport.com/knowledgeBase/category/46156)
+4.  Sales
+
+*   [Accounting - Referrals Paid by Escrow/Title Companies](https://constellation1.na3.teamsupport.com/knowledgeBase/14095344)
+*   [Accounting - Correcting Incorrect Office/Agent Splits in Current Month](https://constellation1.na3.teamsupport.com/knowledgeBase/14358947)
+*   [Accounting - Third-Party Pass-Through Money](https://constellation1.na3.teamsupport.com/knowledgeBase/14506632)
+*   [Accounting - Returning Trust Money](https://constellation1.na3.teamsupport.com/knowledgeBase/14414562)
+*   [Accounting - Filter Tabs for Sales Reports](https://constellation1.na3.teamsupport.com/knowledgeBase/14097651)
+*   [Accounting - How to Reprint Agent Commission Statements](https://constellation1.na3.teamsupport.com/knowledgeBase/15996476)
+*   [Accounting - Voiding an Agent Check on a Posted Sale](https://constellation1.na3.teamsupport.com/knowledgeBase/14528373)
+*   [Accounting and REALedger - Voiding an Agent Check from a Previous Calendar Year](https://constellation1.na3.teamsupport.com/knowledgeBase/14386320)
+*   [Accounting - How to Account for Missed or Underpaid Referral](https://constellation1.na3.teamsupport.com/knowledgeBase/14386249)
+*   [Accounting - Historical Sales](https://constellation1.na3.teamsupport.com/knowledgeBase/15325843)
+*   [Accounting - Voiding Current Month Agent Checks or ACH Payments](https://constellation1.na3.teamsupport.com/knowledgeBase/20221388)
+*   [Accounting - Voiding Trust Checks](https://constellation1.na3.teamsupport.com/knowledgeBase/14779010)
+*   [Accounting - Office Selection in Agent Commissions](https://constellation1.na3.teamsupport.com/knowledgeBase/14816607)
+*   [Accounting - Third-party 1099s in Sales Transactions](https://constellation1.na3.teamsupport.com/knowledgeBase/25640936)
+*   [Accounting - Adjusting Under-collected Pre-split Deductions From the Current Calendar Year](https://constellation1.na3.teamsupport.com/knowledgeBase/20259415)
+*   [Accounting - Re-issuing Lost or Expired Agent Checks from Unposted Sales](https://constellation1.na3.teamsupport.com/knowledgeBase/14537875)
+*   [Accounting - MLS/TMS Integration Configuration and Use](https://constellation1.na3.teamsupport.com/knowledgeBase/21308007)
+*   [Accounting - Custom Sale Field Setup (and Deactivation)](https://constellation1.na3.teamsupport.com/knowledgeBase/17604754)
+*   [Accounting - Entering Trust Transactions](https://constellation1.na3.teamsupport.com/knowledgeBase/14359557)
+*   [Accounting - Buyers/Sellers Export](https://constellation1.na3.teamsupport.com/knowledgeBase/25175680)
+*   [Accounting - Agent Split Not Calculating Correctly](https://constellation1.na3.teamsupport.com/knowledgeBase/17001569)
+*   [Accounting - Adding Entities to Sales Transactions](https://constellation1.na3.teamsupport.com/knowledgeBase/26164650)
+*   [Accounting - Override Office/Agent Split in Sale Transaction](https://constellation1.na3.teamsupport.com/knowledgeBase/14517446)
