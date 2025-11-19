@@ -1,0 +1,13 @@
+---
+title: Setting up Post Automation Schedule
+---
+
+# Setting up Post Automation Schedule
+
+Was this article helpful to you?
+
+#### Add/Edit a Rating
+
+Was this article helpful to you?
+
+My Comments:
